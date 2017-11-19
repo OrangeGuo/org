@@ -1,0 +1,5 @@
+* ubuntu backups in case 
+** nice applications
+1. plank:bottom bar
+2. oh my zsh:beautiful shell
+3. editors:vim and emacs(nothing compare)
