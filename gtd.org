@@ -1,0 +1,14 @@
+* 工作安排
+
+** DONE [#B] complete RequestAnalyse Document
+   SCHEDULED: <2017-11-17 Fri 16:00>
+   :LOGBOOK:
+   CLOCK: [2017-11-17 Fri 12:02]
+   :END:
+
+** DONE [#B] go for a date and a good night
+   SCHEDULED: <2017-11-18 Sat>
+
+** TODO [#B] config software test environment
+   SCHEDULED: <2017-11-19 Sun 20:30>
+

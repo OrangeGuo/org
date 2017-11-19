@@ -1,0 +1,18 @@
+* Career Starting
+** events
+*** start programming
+date: 2015.9 start with C
+*** continue
+date: 2016.2 code in C++ with my first computer
+*** explore
+date: 2016.4 learn java by watching videos
+*** practice
+date: 2016.9 to now work on class project with java
+such as discrete mathematics and data structures
+*** New world!
+date: 2017.8 learn to use linux and python
+*** wait for stronger
+date: 2017.10 get used to editing with vim or emacs
+** org-mode test
+*** list
+

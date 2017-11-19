@@ -1,0 +1,8 @@
+* MySql note for version 5.7
+** start and stop
+sudo service mysql status to check mysql's state(isActive)
+sudo service mysql start to start mysql
+sudo service mysql stop to stop mysql
+** login
+mysql -u username -p(+database)
+example: mysql -u root -p soft
