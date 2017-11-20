@@ -1,5 +1,5 @@
 * Emacs Mannual
-** TODO common keys
+** DONE common keys
 C-c C-t toggle todo
-** TODO config init.el
+** DONE config init.el
    something like this

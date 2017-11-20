@@ -9,10 +9,10 @@
 ** DONE [#B] go for a date and a good night
    SCHEDULED: <2017-11-18 Sat>
 
-** TODO [#B] config software test environment
+** DONE [#B] config software test environment
    SCHEDULED: <2017-11-19 Sun 20:30>
 
-** TODO [#B] backup vim emacs ubuntu config
+** DONE [#B] backup vim emacs ubuntu config
    SCHEDULED: <2017-11-19 Sun 21:57>
 
 
