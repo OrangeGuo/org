@@ -10,4 +10,9 @@
 dpkg -l(list all apps in you system)
 dpkg -l|grep indicator(find app_name contain indicator)
 #+END_SRC
-
+*** connected to internet 
+#+BEGIN_SRC 
+sudo pon dsl-provider(connected)
+sudo poff dsl-provider(unconnected)
+#+END_SRC
+(warning:but i have renamed dsl-provider to cn,which means chinanet)

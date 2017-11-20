@@ -15,4 +15,6 @@
 ** DONE [#B] backup vim emacs ubuntu config
    SCHEDULED: <2017-11-19 Sun 21:57>
 
+** DONE [#B] hacking chinanet 
+   SCHEDULED: <2017-11-20 Mon 19:00>
 
