@@ -1,0 +1,15 @@
+* Quick notes
+
+** happy hacking
+*** the problem i met
+About three days ago,i install the spacemacs and learn to use spacemacs.As you configure,i find spacemacs is very difficult to master in a short time.
+So i plan to master spacemacs gradually in a long term.And i get some skills about org-agenda before long.So i decide to practice them in spacemacs.But
+i met a problem:spacemacs reports a error about org-projectile when i finish todo items or quit.
+*** the method i take 
+Because spacemacs is quite unfamiliar to me,i hurry to ask for forum.But there is only one who answered afer a day.I do what he said but is not effective.
+So i decide to figure it out in my own efforts.I look throught the doc and tutorials in spacemacs.Luckily,i locate the error where it takes place.I edit
+the codes....I make it just now.And that is why i write this note.
+*** the feelings now
+I am very very happy.
+  [2017-11-23 Thu 15:00]
+
