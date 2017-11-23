@@ -13,3 +13,13 @@ the codes....I make it just now.And that is why i write this note.
 I am very very happy.
   [2017-11-23 Thu 15:00]
 
+** TODO [#C] update career.org 
+  
+  [[file:~/org-notes/career.org::*hacking%20spacemacs][hacking spacemacs]] 
+  [2017-11-23 Thu 22:59]
+
+** TODO [#C] add tips to use spacemacs better 
+  
+  [[file:~/org-notes/ubuntu.org::*enable/disable%20grammar%20check%20:space+t+S][enable/disable grammar check :space+t+S]] 
+  [2017-11-23 Thu 23:06]
+

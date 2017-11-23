@@ -25,3 +25,6 @@ sudo poff dsl-provider(unconnected)
 | dw   | delete word        |
 | daw  | delete cursor word |
 |      |                    |
+* spacemacs tips
+** habits
+**** enable/disable grammar check :space+t+S
