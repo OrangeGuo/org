@@ -27,10 +27,13 @@ date: 2017.10 get used to editing with vim or emacs
    :ID:       80e354bb-47c0-4d5a-9f63-80bf36e1bd19
    :END:
 ** TODO learn elisp
+   SCHEDULED: <2017-11-24 Fri>
 ** TODO hacking emacs
    DEADLINE: <2017-12-15 Fri> SCHEDULED: <2017-11-15 Wed>
 ** TODO learn spacemacs
+   SCHEDULED: <2017-11-22 Wed>
 ** TODO hacking spacemacs
+   SCHEDULED: <2017-11-22 Wed>
 * Tips
 ** keymap
 exec "xmodmap .Xmodmap" to exchange Control_l and CapsLock
