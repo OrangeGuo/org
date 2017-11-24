@@ -33,3 +33,7 @@ sudo poff dsl-provider(unconnected)
 **** split the window: space+w+//-(right or below)
 **** list git log: space+g+s(press ENTER to see details)
 **** commit : space+g+m(more options for tutorials)
+**** find file or touch a file: space+f+f
+**** dired-mode:+for new directory,D for delete file or directory 
+**** exec multi commands: C+number
+
