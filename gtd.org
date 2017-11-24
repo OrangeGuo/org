@@ -27,6 +27,7 @@
    SCHEDULED: <2017-11-20 Mon 19:00>
 
 ** TODO [#B] remember to watch zilongshanren's videos for master spacemacs 
+repeat watching the series of videos
 
 * Cocos2D-X
 
