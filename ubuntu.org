@@ -36,4 +36,7 @@ sudo poff dsl-provider(unconnected)
 **** find file or touch a file: space+f+f
 **** dired-mode:+for new directory,D for delete file or directory 
 **** exec multi commands: C+number
-
+* mistakes
+** commands
+**** rar x target.rar for unrar target.rar
+**** rar a target.rar file for add file to target.rar
