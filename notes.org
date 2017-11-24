@@ -23,3 +23,17 @@ I am very very happy.
   [[file:~/org-notes/ubuntu.org::*enable/disable%20grammar%20check%20:space+t+S][enable/disable grammar check :space+t+S]] 
   [2017-11-23 Thu 23:06]
 
+** TODO [#C] career org  
+  
+  [[file:~/org-notes/career.org::*hacking%20spacemacs][hacking spacemacs]] 
+  [2017-11-24 Fri 09:00]
+  
+
+* Blog Ideas
+
+** DONE [#B] not a idea but discover 
+   CLOSED: [2017-11-24 Fri 12:02]
+notes and ideas are in the same file in org-capture
+  
+  [2017-11-24 Fri 12:00]
+

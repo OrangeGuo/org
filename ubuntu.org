@@ -28,3 +28,7 @@ sudo poff dsl-provider(unconnected)
 * spacemacs tips
 ** habits
 **** enable/disable grammar check :space+t+S
+**** open the category in the buffer :space+f+j
+**** save the buffer: space+f+s
+**** split the window: space+w+//-(right or below)
+**** list git log: space+g+s(press ENTER to see details)

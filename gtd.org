@@ -3,11 +3,11 @@
 ** DONE [#B]kill the bug in org agenda 
    CLOSED: [2017-11-23 Thu 14:51] SCHEDULED: <2017-11-23 Thu 21:20>
 
-** TODO [#B] finish software homework  
-   SCHEDULED: <2017-11-23 Thu 21:30>
+** DONE [#B] finish software homework  
+   CLOSED: [2017-11-24 Fri 11:40] SCHEDULED: <2017-11-23 Thu 21:30>
 
 ** TODO [#B]  make Russia(elective course) PPT
-   SCHEDULED: <2017-11-26 Sun>
+   SCHEDULED: <2017-11-25 Sat>
 ** DONE [#B] complete RequestAnalyse Document
    SCHEDULED: <2017-11-17 Fri 16:00>
    :LOGBOOK:
@@ -25,4 +25,8 @@
 
 ** DONE [#B] hacking chinanet 
    SCHEDULED: <2017-11-20 Mon 19:00>
+
+** TODO [#B] remember to watch zilongshanren's videos for master spacemacs 
+
+* Cocos2D-X
 

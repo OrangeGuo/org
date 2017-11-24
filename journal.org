@@ -1,5 +1,10 @@
-
 * 2017
 ** 2017-11 November
 *** 2017-11-23 Thursday
+*** 2017-11-24 Friday
+
+**** journal meas travel diary or a plan? 
+It is my fourth day from my learning spacemacs.I'm willing to finish this journal to record the my excellent mood.
+The config of my spacemacs is due to zilongshanren.And i am hungry to config the spacemacs by myself in the future.
+And this all for today's journal. 
 
