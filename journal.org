@@ -1,10 +1,18 @@
 * 2017
 ** 2017-11 November
-*** 2017-11-23 Thursday
 *** 2017-11-24 Friday
 
 **** journal meas travel diary or a plan? 
 It is my fourth day from my learning spacemacs.I'm willing to finish this journal to record the my excellent mood.
 The config of my spacemacs is due to zilongshanren.And i am hungry to config the spacemacs by myself in the future.
-And this all for today's journal. 
+And this all for today's journal.
+*** 2017-11-26 Sunday
+
+**** summary after reinstall ubuntu16.04 
+It is me who get myself in the trouble.I want to change my desktop to gnome in place of unity yesterday.I find it's very uncomfortable to
+use gnome,so i decide to uninstall gnome desktop.To be honest,i want to purge all application about gnome.After i finish that,i find i can
+start many applications such as uget,chrome.What's more,the icons in the bottom bar also disappeared quietly.All happned scared me,however
+i don't how to solve this problem.So i have to reinstall all applications back.Then i reboot,but i can't log in my system anymore.Saddly,i
+have to make a hard decision that is to reinstall ubuntu16.
+ 
 

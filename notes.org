@@ -27,7 +27,11 @@ I am very very happy.
   
   [[file:~/org-notes/career.org::*hacking%20spacemacs][hacking spacemacs]] 
   [2017-11-24 Fri 09:00]
-  
+
+** TODO [#C] 
+  %![Error: (void-function zilongshanren/retrieve-chrome-current-tab-url)]
+ 
+  [2017-11-26 Sun 15:29]
 
 * Blog Ideas
 

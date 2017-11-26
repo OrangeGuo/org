@@ -9,11 +9,18 @@ sudo add-apt-repository ppa:fossfreedom/indicator-sysmonitor
 sudo apt-get update
 sudo apt-get install indicator-sysmonitor
 #+END_SRC
-6. switch graphic card:prime-indicator
+5. switch graphic card:prime-indicator
 #+BEGIN_SRC 
 sudo add-apt-repository ppa:nilarimogard/webupd8  
 sudo apt update
 sudo apt install prime-indicator
+#+END_SRC
+6. theme and icons
+#+BEGIN_SRC 
+sudo add-apt-repository ppa:noobslab/themes
+sudo add-apt-repository ppa:numix/ppa
+sudo apt update
+sudo apt install numix-gtk-theme numix-icon-theme-circle flatabulous-theme
 #+END_SRC
 ** important commands
 *** list all applications
