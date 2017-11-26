@@ -28,8 +28,8 @@ date: 2017.10 get used to editing with vim or emacs
    :END:
 ** TODO learn elisp
    SCHEDULED: <2017-11-24 Fri>
-** TODO hacking emacs
-   DEADLINE: <2017-12-15 Fri> SCHEDULED: <2017-11-15 Wed>
+** DONE hacking emacs
+   CLOSED: [2017-11-26 Sun 13:08] DEADLINE: <2017-12-15 Fri> SCHEDULED: <2017-11-15 Wed>
 ** TODO learn spacemacs
    SCHEDULED: <2017-11-22 Wed>
 ** TODO hacking spacemacs
