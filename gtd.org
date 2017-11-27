@@ -6,8 +6,8 @@
 ** DONE [#B] finish software homework  
    CLOSED: [2017-11-24 Fri 11:40] SCHEDULED: <2017-11-23 Thu 21:30>
 
-** TODO [#B]  make Russia(elective course) PPT
-   SCHEDULED: <2017-11-25 Sat>
+** DONE [#B]  make Russia(elective course) PPT
+   CLOSED: [2017-11-27 Mon 12:57] SCHEDULED: <2017-11-25 Sat>
 ** DONE [#B] complete RequestAnalyse Document
    SCHEDULED: <2017-11-17 Fri 16:00>
    :LOGBOOK:

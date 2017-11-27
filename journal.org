@@ -14,5 +14,9 @@ use gnome,so i decide to uninstall gnome desktop.To be honest,i want to purge al
 start many applications such as uget,chrome.What's more,the icons in the bottom bar also disappeared quietly.All happned scared me,however
 i don't how to solve this problem.So i have to reinstall all applications back.Then i reboot,but i can't log in my system anymore.Saddly,i
 have to make a hard decision that is to reinstall ubuntu16.
- 
+*** 2017-11-27 Monday
+
+**** I find a great application which is free and quick vpn.It is lantern.But the version 
+i download from web is for ubuntu14,it's amazing to me that the version is valid in ubuntu16.
+Althougth it just provides user with 500 M/month,it's is enough for me,emmmmm,this month.
 
