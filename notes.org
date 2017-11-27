@@ -28,10 +28,16 @@ I am very very happy.
   [[file:~/org-notes/career.org::*hacking%20spacemacs][hacking spacemacs]] 
   [2017-11-24 Fri 09:00]
 
+  
 ** TODO [#C] 
   %![Error: (void-function zilongshanren/retrieve-chrome-current-tab-url)]
  
-  [2017-11-26 Sun 15:29]
+  [2017-11-27 Mon 21:45]
+
+** another error to correct 
+if: Symbol’s function definition is void: org-projectile:capture-for-current-project
+  
+  [2017-11-27 Mon 22:14]
 
 * Blog Ideas
 

@@ -28,12 +28,18 @@ date: 2017.10 get used to editing with vim or emacs
    :END:
 ** TODO learn elisp
    SCHEDULED: <2017-11-24 Fri>
+   :PROPERTIES:
+   :Effort:   test
+   :END:
+   :LOGBOOK:
+   CLOCK: [2017-11-27 Mon 22:07]--[2017-11-27 Mon 22:07] =>  0:00
+   :END:
 ** DONE hacking emacs
    CLOSED: [2017-11-26 Sun 13:08] DEADLINE: <2017-12-15 Fri> SCHEDULED: <2017-11-15 Wed>
-** TODO learn spacemacs
-   SCHEDULED: <2017-11-22 Wed>
-** TODO hacking spacemacs
-   SCHEDULED: <2017-11-22 Wed>
+** DONE learn spacemacs
+   CLOSED: [2017-11-27 Mon 21:56] SCHEDULED: <2017-11-22 Wed>
+** DONE hacking spacemacs
+   CLOSED: [2017-11-27 Mon 21:56] SCHEDULED: <2017-11-22 Wed>
 * Tips
 ** keymap
 exec "xmodmap .Xmodmap" to exchange Control_l and CapsLock
