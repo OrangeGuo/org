@@ -45,7 +45,7 @@ sudo poff dsl-provider(unconnected)
 | daw  | delete cursor word |
 |      |                    |
 * spacemacs tips
-** habits
+** common but important commands 
 **** enable/disable grammar check :space+t+S
 **** open the category in the buffer :space+f+j
 **** save the buffer: space+f+s
@@ -55,6 +55,9 @@ sudo poff dsl-provider(unconnected)
 **** find file or touch a file: space+f+f
 **** dired-mode:+for new directory,D for delete file or directory 
 **** exec multi commands: C+number
+** org agenda
+**** enter "+" to change priority of todo item
+**** enter "," and "." to call menus
 * mistakes
 ** commands
 **** rar x target.rar for unrar target.rar

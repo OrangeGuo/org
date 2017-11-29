@@ -23,10 +23,6 @@
 ** DONE [#B] hacking chinanet 
    SCHEDULED: <2017-11-20 Mon 19:00>
 
-** TODO [#B] remember to watch zilongshanren's videos for master spacemacs 
-   SCHEDULED: <2017-11-29 Wed>
-repeat watching the series of videos
-
 ** DONE [#B] finish compilation principle 
    CLOSED: [2017-11-27 Mon 21:30] SCHEDULED: <2017-11-27 Mon 19:00>
    :LOGBOOK:
@@ -35,7 +31,7 @@ repeat watching the series of videos
    CLOCK: [2017-11-27 Mon 19:48]--[2017-11-27 Mon 20:13] =>  0:25
    CLOCK: [2017-11-27 Mon 19:07]--[2017-11-27 Mon 19:32] =>  0:25
    :END:
-
+   
 ** DONE [#B] work on presentation 
    CLOSED: [2017-11-27 Mon 21:56] SCHEDULED: <2017-11-27 Mon 21:32>
    :LOGBOOK:
@@ -44,6 +40,13 @@ repeat watching the series of videos
 
 ** DONE [#B] fix agenda bug 
    CLOSED: [2017-11-29 Wed 10:35]
+
+** TODO [#B]learn org mode                                            :study:
+   SCHEDULED: <2017-11-29 Wed .+1d>
+
+** TODO [#B] remember to watch zilongshanren's videos for master spacemacs 
+   SCHEDULED: <2017-11-29 Wed .+1d>
+  http://v.youku.com/v_show/id_XMTM2MjM5OTU5Ng==.html?spm=a2h1n.8251843.playList.5!4~5~A&f=26137579&o=1
 
 * Cocos2D-X
 

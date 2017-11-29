@@ -26,8 +26,8 @@ date: 2017.10 get used to editing with vim or emacs
    :Attachments: career.org
    :ID:       80e354bb-47c0-4d5a-9f63-80bf36e1bd19
    :END:
-** TODO learn elisp
-   SCHEDULED: <2017-11-24 Fri>
+** TODO [#B] learn elisp                                              :study:
+   SCHEDULED: <2017-11-29 Wed .+2d>
    :PROPERTIES:
    :END:
    :LOGBOOK:

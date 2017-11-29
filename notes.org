@@ -13,31 +13,36 @@ the codes....I make it just now.And that is why i write this note.
 I am very very happy.
   [2017-11-23 Thu 15:00]
 
-** TODO [#C] update career.org 
+** TODO [#B] update career.org 
   
   [[file:~/org-notes/career.org::*hacking%20spacemacs][hacking spacemacs]] 
   [2017-11-23 Thu 22:59]
 
-** TODO [#C] add tips to use spacemacs better 
+** TODO [#B] add tips to use spacemacs better 
+   :PROPERTIES:
+   :Effort:   1d
+   :END:
   
   [[file:~/org-notes/ubuntu.org::*enable/disable%20grammar%20check%20:space+t+S][enable/disable grammar check :space+t+S]] 
   [2017-11-23 Thu 23:06]
 
-** TODO [#C] career org  
+** [#C] career org  
+   :LOGBOOK:
+   CLOCK: [2017-11-29 Wed 15:54]--[2017-11-29 Wed 15:54] =>  0:00
+   :END:
   
   [[file:~/org-notes/career.org::*hacking%20spacemacs][hacking spacemacs]] 
   [2017-11-24 Fri 09:00]
-
-  
-** TODO [#C] 
-  %![Error: (void-function zilongshanren/retrieve-chrome-current-tab-url)]
- 
-  [2017-11-27 Mon 21:45]
 
 ** another error to correct 
 if: Symbol’s function definition is void: org-projectile:capture-for-current-project
   
   [2017-11-27 Mon 22:14]
+
+** DONE [#B] add link org-mode tutorials 
+   CLOSED: [2017-11-29 Wed 16:38]
+  http://v.youku.com/v_show/id_XMTM2MjM5OTU5Ng==.html?spm=a2h1n.8251843.playList.5!4~5~A&f=26137579&o=1
+  [2017-11-29 Wed 15:25]
 
 * Blog Ideas
 
