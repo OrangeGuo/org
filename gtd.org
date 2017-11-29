@@ -42,7 +42,8 @@ repeat watching the series of videos
    CLOCK: [2017-11-27 Mon 21:32]--[2017-11-27 Mon 21:56] =>  0:24
    :END:
 
-** TODO [#B] fix agenda bug 
+** DONE [#B] fix agenda bug 
+   CLOSED: [2017-11-29 Wed 10:35]
 
 * Cocos2D-X
 
