@@ -48,5 +48,6 @@
    SCHEDULED: <2017-11-29 Wed .+1d>
   http://v.youku.com/v_show/id_XMTM2MjM5OTU5Ng==.html?spm=a2h1n.8251843.playList.5!4~5~A&f=26137579&o=1
 
-* Cocos2D-X
+** TODO [#A]complete compilation principle homework 
+   SCHEDULED: <2017-11-29 Wed 18:30>
 
