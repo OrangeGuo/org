@@ -41,13 +41,21 @@
 ** DONE [#B] fix agenda bug 
    CLOSED: [2017-11-29 Wed 10:35]
 
-** TODO [#B]learn org mode                                            :study:
-   SCHEDULED: <2017-11-29 Wed .+1d>
+** DONE [#B]learn org mode                                            :study:
+   CLOSED: [2017-11-29 Wed 18:13] SCHEDULED: <2017-11-29 Wed>
 
-** TODO [#B] remember to watch zilongshanren's videos for master spacemacs 
-   SCHEDULED: <2017-11-29 Wed .+1d>
+** TODO [#B] remember to watch zilongshanren's videos for master spacemacs
+   SCHEDULED: <2017-11-30 Thu .+1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-11-29 Wed 19:14]
+   :END:
+   - State "DONE"       from "TODO"       [2017-11-29 Wed 19:14]
   http://v.youku.com/v_show/id_XMTM2MjM5OTU5Ng==.html?spm=a2h1n.8251843.playList.5!4~5~A&f=26137579&o=1
 
-** TODO [#A]complete compilation principle homework 
-   SCHEDULED: <2017-11-29 Wed 18:30>
+** DONE [#A]complete compilation principle homework 
+   CLOSED: [2017-11-29 Wed 19:14] SCHEDULED: <2017-11-29 Wed 18:30>
+
+** DONE [#A] try my best to install nodejs,npm,hexo,make preparations for blog. 
+   CLOSED: [2017-11-29 Wed 22:11] SCHEDULED: <2017-11-29 Wed 21:00>
+
 

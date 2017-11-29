@@ -19,4 +19,7 @@ have to make a hard decision that is to reinstall ubuntu16.
 **** I find a great application which is free and quick vpn.It is lantern.But the version 
 i download from web is for ubuntu14,it's amazing to me that the version is valid in ubuntu16.
 Althougth it just provides user with 500 M/month,it's is enough for me,emmmmm,this month.
+*** 2017-11-29 Wednesday
+
+**** start learn emacs lisp.And i have finished to 1.1:Lisp List. 
 

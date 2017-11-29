@@ -38,7 +38,7 @@ I am very very happy.
   [[file:~/org-notes/career.org::*hacking%20spacemacs][hacking spacemacs]] 
   [2017-11-24 Fri 09:00]
 
-** TODO another error to correct 
+** TODO another error to correct                                    :hacking:
    SCHEDULED: <2017-11-29 Wed .+1d>
 if: Symbol’s function definition is void: org-projectile:capture-for-current-project
   
@@ -49,18 +49,23 @@ if: Symbol’s function definition is void: org-projectile:capture-for-current-p
   http://v.youku.com/v_show/id_XMTM2MjM5OTU5Ng==.html?spm=a2h1n.8251843.playList.5!4~5~A&f=26137579&o=1
   [2017-11-29 Wed 15:25]
 
-** TODO [#A] learn AHP layers analyse 
-   SCHEDULED: <2017-11-29 Wed 19:00>
+** DONE [#A] learn AHP layers analyse 
+   CLOSED: [2017-11-29 Wed 19:10] SCHEDULED: <2017-11-29 Wed 19:00>
 https://jingyan.baidu.com/article/cbf0e500eb95582eaa28932b.html
 
 ** TODO [#B] learn to write a blog 
    SCHEDULED: <2017-12-01 Fri>
 http://blog.csdn.net/kesarchen/article/details/50579550
+https://zilongshanren.com/blog/2015-07-19-add-org-mode-support.html
   [2017-11-29 Wed 17:51]
 
-** TODO [#C] take notes about org mode agenda 
-   SCHEDULED: <2017-11-29 Wed .+1d>
+** TODO [#C] learn org mode and take notes about org mode agenda      :study:
+   SCHEDULED: <2017-11-30 Thu .+1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-11-29 Wed 18:47]
+   :END:
   
+   - State "DONE"       from "TODO"       [2017-11-29 Wed 18:47]
   [[file:~/org-notes/ubuntu.org::*enter%20"t"%20to%20change%20state(todo%20done)%20of%20task%20when%20your%20cursor%20is%20on%20task][enter "t" to change state(todo done) of task when your cursor is on task]] 
   [2017-11-29 Wed 18:04]
 
