@@ -1,0 +1,20 @@
+* prepare for blogs
+** install nodejs and npm
+*** thanks to JackMa'taobao https://npm.taobao.org/ (recommended mirror source)
+1. download node-v0.10.25-linux-x64.tar.gz from https://npm.taobao.org/mirrors/node/v0.10.25/
+2. use commands to unzip and move to /opt
+#+BEGIN_SRC 
+tar  -zxvf node-v0.10.25-linux-x64.tar.gz
+sudo mv node-v0.10.25-linux-x64 /opt
+#+END_SRC
+3. add commands to system
+#+BEGIN_SRC 
+sudo ln -s /opt/node-v0.10.25-linux-x64/bin/node /usr/local/bin/node
+sudo ln -s /opt/node-v0.10.25-linux-x64/bin/npm /usr/local/bin/npm
+#+END_SRC
+4. install hexo and add commands to system
+#+BEGIN_SRC 
+npm install hexo-cli -g
+npm install hexo -g
+sudo ln -s /opt/node-v0.10.25-linux-x64/bin/hexo /usr/local/bin/hexo
+#+END_SRC
