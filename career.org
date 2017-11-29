@@ -29,7 +29,6 @@ date: 2017.10 get used to editing with vim or emacs
 ** TODO learn elisp
    SCHEDULED: <2017-11-24 Fri>
    :PROPERTIES:
-   :Effort:   test
    :END:
    :LOGBOOK:
    CLOCK: [2017-11-27 Mon 22:07]--[2017-11-27 Mon 22:07] =>  0:00

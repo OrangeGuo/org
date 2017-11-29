@@ -24,6 +24,7 @@
    SCHEDULED: <2017-11-20 Mon 19:00>
 
 ** TODO [#B] remember to watch zilongshanren's videos for master spacemacs 
+   SCHEDULED: <2017-11-29 Wed>
 repeat watching the series of videos
 
 ** DONE [#B] finish compilation principle 
@@ -40,6 +41,8 @@ repeat watching the series of videos
    :LOGBOOK:
    CLOCK: [2017-11-27 Mon 21:32]--[2017-11-27 Mon 21:56] =>  0:24
    :END:
+
+** TODO [#B] fix agenda bug 
 
 * Cocos2D-X
 
