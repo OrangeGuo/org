@@ -1,0 +1,11 @@
+* learn elisp 
+** mistakes
+*** grammar
+**** define function: a space should be placed between function name and "()"
+#+BEGIN_SRC 
+(setq my-name "Bastien")
+(defun hello ()(insert "hello,i am"my-name))
+(hello )
+#+END_SRC
+*** compile
+**** use eval-buffer to recompile code block compile
