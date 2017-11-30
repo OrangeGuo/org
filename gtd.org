@@ -45,10 +45,11 @@
    CLOSED: [2017-11-29 Wed 18:13] SCHEDULED: <2017-11-29 Wed>
 
 ** TODO [#B] remember to watch zilongshanren's videos for master spacemacs
-   SCHEDULED: <2017-11-30 Thu .+1d>
+   SCHEDULED: <2017-12-01 Fri .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-11-29 Wed 19:14]
+   :LAST_REPEAT: [2017-11-30 Thu 21:58]
    :END:
+   - State "DONE"       from "TODO"       [2017-11-30 Thu 21:58]
    - State "DONE"       from "TODO"       [2017-11-29 Wed 19:14]
   http://v.youku.com/v_show/id_XMTM2MjM5OTU5Ng==.html?spm=a2h1n.8251843.playList.5!4~5~A&f=26137579&o=1
 
@@ -57,5 +58,8 @@
 
 ** DONE [#A] try my best to install nodejs,npm,hexo,make preparations for blog. 
    CLOSED: [2017-11-29 Wed 22:11] SCHEDULED: <2017-11-29 Wed 21:00>
+
+** DONE [#A] modify blog contents 
+   CLOSED: [2017-11-30 Thu 22:53] SCHEDULED: <2017-11-30 Thu 22:30>
 
 
