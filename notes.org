@@ -38,8 +38,8 @@ I am very very happy.
   [[file:~/org-notes/career.org::*hacking%20spacemacs][hacking spacemacs]] 
   [2017-11-24 Fri 09:00]
 
-** TODO another error to correct                                    :hacking:
-   SCHEDULED: <2017-11-29 Wed .+1d>
+** DONE another error to correct                                    :hacking:
+   CLOSED: [2017-12-01 Fri 09:43] SCHEDULED: <2017-12-01 Fri 10:00>
 if: Symbol’s function definition is void: org-projectile:capture-for-current-project
   
   [2017-11-27 Mon 22:14]
@@ -60,11 +60,12 @@ https://zilongshanren.com/blog/2015-07-19-add-org-mode-support.html
   [2017-11-29 Wed 17:51]
 
 ** TODO [#C] learn org mode and take notes about org mode agenda      :study:
-   SCHEDULED: <2017-12-01 Fri .+1d>
+   SCHEDULED: <2017-12-02 Sat 10:30 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-11-30 Thu 21:58]
+   :LAST_REPEAT: [2017-12-01 Fri 11:16]
    :END:
   
+   - State "DONE"       from "TODO"       [2017-12-01 Fri 11:16]
    - State "DONE"       from "TODO"       [2017-11-30 Thu 21:58]
    - State "DONE"       from "TODO"       [2017-11-29 Wed 18:47]
   [[file:~/org-notes/ubuntu.org::*enter%20"t"%20to%20change%20state(todo%20done)%20of%20task%20when%20your%20cursor%20is%20on%20task][enter "t" to change state(todo done) of task when your cursor is on task]] 

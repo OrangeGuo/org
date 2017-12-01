@@ -6,6 +6,6 @@
 (setq my-name "Bastien")
 (defun hello ()(insert "hello,i am"my-name))
 (hello )
-#+END_SRC
+#+END_SR
 *** compile
 **** use eval-buffer to recompile code block compile

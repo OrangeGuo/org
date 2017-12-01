@@ -60,6 +60,7 @@ sudo poff dsl-provider(unconnected)
 **** enter "," and "." to call menus
 **** enter ",s"/",d" to set schedule/deadline time
 **** enter "t" to change state(todo done) of task when your cursor is on task
+**** enter "i" to write diary
 * mistakes
 ** commands
 **** rar x target.rar for unrar target.rar
