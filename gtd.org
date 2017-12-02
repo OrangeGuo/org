@@ -63,4 +63,6 @@
 ** DONE [#A] modify blog contents 
    CLOSED: [2017-11-30 Thu 22:53] SCHEDULED: <2017-11-30 Thu 22:30>
 
+** TODO [#A] review book for forthcoming Software Project exam  
+   SCHEDULED: <2017-12-02 Sat 20:00>
 
