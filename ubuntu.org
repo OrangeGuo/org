@@ -36,6 +36,7 @@ sudo poff dsl-provider(unconnected)
 #+END_SRC
 (warning:but i have renamed dsl-provider to cn,which means chinanet)
 * vim commands
+** keymap
 | key  | function           |
 |------+--------------------|
 | hjkl | direction          |
@@ -44,6 +45,13 @@ sudo poff dsl-provider(unconnected)
 | dw   | delete word        |
 | daw  | delete cursor word |
 |      |                    |
+** common commands
+**** find and replace
+     #+BEGIN_SRC 
+ all buffer  :%s/old/new/g "g" means without confirm ("c" need confirm one by one)
+ current line  :s/old/new/g 
+ line n1 to n2  :n1,n2s/old/new/g  
+     #+END_SRC
 * spacemacs tips
 ** common but important commands 
 **** enable/disable grammar check :space+t+S
@@ -61,6 +69,18 @@ sudo poff dsl-provider(unconnected)
 **** enter ",s"/",d" to set schedule/deadline time
 **** enter "t" to change state(todo done) of task when your cursor is on task
 **** enter "i" to write diary
+* MySql note for version 5.7
+** start and stop
+sudo service mysql status to check mysql's state(isActive)
+sudo service mysql start to start mysql
+sudo service mysql stop to stop mysql
+** login
+mysql -u username -p(+database)
+example: mysql -u root -p soft
+** forbidden startp 
+#+BEGIN_SRC 
+sudo update-rc.d -f mysql remove
+#+END_SRC
 * mistakes
 ** commands
 **** rar x target.rar for unrar target.rar

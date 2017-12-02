@@ -53,14 +53,14 @@ if: Symbol’s function definition is void: org-projectile:capture-for-current-p
    CLOSED: [2017-11-29 Wed 19:10] SCHEDULED: <2017-11-29 Wed 19:00>
 https://jingyan.baidu.com/article/cbf0e500eb95582eaa28932b.html
 
-** TODO [#B] learn to write a blog 
+** TODO [#B] learn to write a blog                                     :goal:
    SCHEDULED: <2017-12-01 Fri>
 http://blog.csdn.net/kesarchen/article/details/50579550
 https://zilongshanren.com/blog/2015-07-19-add-org-mode-support.html
   [2017-11-29 Wed 17:51]
 
-** TODO [#C] learn org mode and take notes about org mode agenda      :study:
-   SCHEDULED: <2017-12-02 Sat 10:30 .+1d>
+** DONE [#C] learn org mode and take notes about org mode agenda      :study:
+   CLOSED: [2017-12-02 Sat 11:33] SCHEDULED: <2017-12-02 Sat 10:30>
    :PROPERTIES:
    :LAST_REPEAT: [2017-12-01 Fri 11:16]
    :END:
@@ -70,6 +70,11 @@ https://zilongshanren.com/blog/2015-07-19-add-org-mode-support.html
    - State "DONE"       from "TODO"       [2017-11-29 Wed 18:47]
   [[file:~/org-notes/ubuntu.org::*enter%20"t"%20to%20change%20state(todo%20done)%20of%20task%20when%20your%20cursor%20is%20on%20task][enter "t" to change state(todo done) of task when your cursor is on task]] 
   [2017-11-29 Wed 18:04]
+
+** TODO [#B] take notes about vim and emacs                            :plan:
+  
+  [[file:~/org-notes/ubuntu.org::*find%20and%20replace][find and replace]] 
+  [2017-12-02 Sat 13:15]
 
 * Blog Ideas
 

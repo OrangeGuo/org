@@ -1,3 +1,4 @@
+#+Title Emacs Lisp
 * learn elisp 
 ** mistakes
 *** grammar
@@ -9,3 +10,21 @@
 #+END_SR
 *** compile
 **** use eval-buffer to recompile code block compile
+*** notes
+**** chapter one
+     #+BEGIN_SRC 
+     (+ 2 2)
+(this is a quoted list)
+(+ 2 (+ 3 3))
+fill-column
+(message "hello,echo area")
+(message "the name of buffer is %s" (buffer-name))
+(message "the value of fill-column is %s" fill-column)
+
+;; variable
+(set 'flower '(rose violet daisy buttercup))
+flower
+'flower
+(setq carnivores '(lion tiger)
+      tree '(pine oak))
+     #+END_SRC

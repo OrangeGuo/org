@@ -45,7 +45,7 @@
    CLOSED: [2017-11-29 Wed 18:13] SCHEDULED: <2017-11-29 Wed>
 
 ** TODO [#B] remember to watch zilongshanren's videos for master spacemacs
-   SCHEDULED: <2017-12-02 Sat .+1d>
+   SCHEDULED: <2017-12-02 Sat .+2d>
    :PROPERTIES:
    :LAST_REPEAT: [2017-12-01 Fri 09:43]
    :END:
