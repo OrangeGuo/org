@@ -5,7 +5,7 @@
 
 ** DONE [#B] finish software homework  
    CLOSED: [2017-11-24 Fri 11:40] SCHEDULED: <2017-11-23 Thu 21:30>
-
+   
 ** DONE [#B]  make Russia(elective course) PPT
    CLOSED: [2017-11-27 Mon 12:57] SCHEDULED: <2017-11-25 Sat>
 ** DONE [#B] complete RequestAnalyse Document
@@ -64,8 +64,8 @@
 ** DONE [#A] modify blog contents 
    CLOSED: [2017-11-30 Thu 22:53] SCHEDULED: <2017-11-30 Thu 22:30>
 
-** TODO [#A] review book for forthcoming Software Project exam  
-   SCHEDULED: <2017-12-02 Sat 20:30>
+** DONE [#A] review book for forthcoming Software Project exam  
+   CLOSED: [2017-12-03 Sun 14:13] SCHEDULED: <2017-12-02 Sat 20:30>
 
    - Note taken on [2017-12-02 Sat 17:10] \\
      test 2017-11-23

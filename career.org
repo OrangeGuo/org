@@ -27,10 +27,11 @@ date: 2017.10 get used to editing with vim or emacs
    :ID:       80e354bb-47c0-4d5a-9f63-80bf36e1bd19
    :END:
 ** TODO [#B] learn elisp                                              :study:
-   SCHEDULED: <2017-12-03 Sun .+2d>
+   SCHEDULED: <2017-12-05 Tue .+2d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-12-01 Fri 14:57]
+   :LAST_REPEAT: [2017-12-03 Sun 14:15]
    :END:
+   - State "DONE"       from "TODO"       [2017-12-03 Sun 14:15]
    - State "DONE"       from "TODO"       [2017-12-01 Fri 14:57]
    https://www.gnu.org/software/emacs/manual/html_mono/eintr.html
    :PROPERTIES:
