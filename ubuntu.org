@@ -1,3 +1,4 @@
+#+TITLE: ubuntu daily 
 * ubuntu backups in case 
 ** nice applications
 1. plank:bottom bar
@@ -63,12 +64,17 @@ sudo poff dsl-provider(unconnected)
 **** find file or touch a file: space+f+f
 **** dired-mode:+for new directory,D for delete file or directory 
 **** exec multi commands: C+number
+**** find definition of function in emacs :C+h+f(or v for varies)
 ** org agenda
 **** enter "+" to change priority of todo item
 **** enter "," and "." to call menus
 **** enter ",s"/",d" to set schedule/deadline time
 **** enter "t" to change state(todo done) of task when your cursor is on task
 **** enter "i" to write diary
+**** enter "z" to take note about TODO items where cursor is on 
+**** enter "spc a o s" to search in your org files
+**** enter ", ." to get into menus
+*"tf"* for preview details when you move cursor on the TODO items
 * MySql note for version 5.7
 ** start and stop
 sudo service mysql status to check mysql's state(isActive)
@@ -84,4 +90,4 @@ sudo update-rc.d -f mysql remove
 * mistakes
 ** commands
 **** rar x target.rar for unrar target.rar
-**** rar a target.rar file for add file to target.rar
+**** rar a target.rar file for add file to target.rar 

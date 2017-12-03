@@ -1,13 +1,13 @@
-#+Title Emacs Lisp
-* learn elisp 
-** mistakes
+#+Title: Emacs Lisp
+* learn lisp 
+** key aspects 
 *** grammar
 **** define function: a space should be placed between function name and "()"
 #+BEGIN_SRC 
 (setq my-name "Bastien")
 (defun hello ()(insert "hello,i am"my-name))
 (hello )
-#+END_SR
+#+END_SRC
 *** compile
 **** use eval-buffer to recompile code block compile
 *** notes
@@ -27,4 +27,15 @@ flower
 'flower
 (setq carnivores '(lion tiger)
       tree '(pine oak))
+     #+END_SRC
+**** chapter two
+     #+BEGIN_SRC 
+(buffer-name)
+(buffer-file-name)
+(current-buffer)
+(switch-to-buffer (other-buffer))
+(buffer-size)
+(point)
+(point-min)
+(point-max)
      #+END_SRC
