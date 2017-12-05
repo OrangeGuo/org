@@ -75,6 +75,13 @@ sudo poff dsl-provider(unconnected)
 **** enter "spc a o s" to search in your org files
 **** enter ", ." to get into menus
 *"tf"* for preview details when you move cursor on the TODO items
+**** ctrl + ENTER 
+*在分级标题中使用此快捷键可以新建同级标题*
+** special skills 
+*** 启动meacs
+*在终端输入 LC_CTYPE=zh_CN.UTF-8 emacs 启动emacs才能在emacs中启用搜狗输入法*
+*** 代码块中直接开启新的缓冲区编辑代码 
+快捷键：C-c '（注：代码块需注明编程语言） 
 * MySql note for version 5.7
 ** start and stop
 sudo service mysql status to check mysql's state(isActive)

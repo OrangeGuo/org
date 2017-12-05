@@ -21,5 +21,11 @@ i download from web is for ubuntu14,it's amazing to me that the version is valid
 Althougth it just provides user with 500 M/month,it's is enough for me,emmmmm,this month.
 *** 2017-11-29 Wednesday
 
-**** start learn emacs lisp.And i have finished to 1.1:Lisp List. 
+**** start learn emacs lisp.And i have finished to 1.1:Lisp List.
+** 2017-12 December
+*** 2017-12-05 Tuesday
+
+**** 正如你所看到的哈哈，今天贼鸡儿开心，因为终于知道怎么在神之编辑器中输入中文了，喂，好像哪里不对劲。
+这逗号好像飘了。。。。还有句号。。。。算了管不了那么多了，哈哈哈，开心！！！
+
 

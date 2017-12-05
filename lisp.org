@@ -28,6 +28,7 @@ flower
 (setq carnivores '(lion tiger)
       tree '(pine oak))
      #+END_SRC
+***** 主要介绍了基本语法，变量
 **** chapter two
      #+BEGIN_SRC 
 (buffer-name)
@@ -39,3 +40,19 @@ flower
 (point-min)
 (point-max)
      #+END_SRC
+***** 主要介绍了文件和缓冲区
+**** chapter tree 
+     #+BEGIN_SRC lisp 
+       ;;definition
+       (defun multiply-by-seven (number)
+       "multiply by seven."
+       (* 7 number))
+       ;;test
+       (multiply-by-seven 7)
+
+       (defun multiply-by-seven (number)
+         "multiply by seven"
+         (interactive "p")
+         (message "result is %d"(* 7 number)))
+     #+END_SRC
+***** 3.3 介绍了函数定义，和交互型函数

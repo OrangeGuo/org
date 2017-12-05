@@ -76,4 +76,13 @@
 ** DONE [#B] watch mayuan course on mooc net 
    CLOSED: [2017-12-04 Mon 20:45] SCHEDULED: <2017-12-04 Mon 19:00>
 
+** DONE [#B] finish software test experiment document 
+   CLOSED: [2017-12-05 Tue 15:26] SCHEDULED: <2017-12-05 Tue 13:00>
+   :LOGBOOK:
+   CLOCK: [2017-12-05 Tue 14:41]--[2017-12-05 Tue 15:06] =>  0:25
+   CLOCK: [2017-12-05 Tue 14:06]--[2017-12-05 Tue 14:31] =>  0:25
+   CLOCK: [2017-12-05 Tue 13:41]--[2017-12-05 Tue 14:06] =>  0:25
+   :END:
+
+** TODO [#B] install java develop toolkit  
 

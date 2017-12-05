@@ -26,11 +26,14 @@ date: 2017.10 get used to editing with vim or emacs
    :Attachments: career.org
    :ID:       80e354bb-47c0-4d5a-9f63-80bf36e1bd19
    :END:
-** TODO [#B] learn elisp                                              :study:
-   SCHEDULED: <2017-12-05 Tue .+2d>
+** TODO [#B] learn elisp                                             :study:
+   SCHEDULED: <2017-12-07 Thu 20:45 .+2d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-12-03 Sun 14:15]
+   :LAST_REPEAT: [2017-12-05 Tue 22:39]
    :END:
+   - State "DONE"       from "TODO"       [2017-12-05 Tue 22:39]
+   - Note taken on [2017-12-05 Tue 22:38] \\
+     finish chapter 3.3 and get ready for chapter 3.4 different options for interactive
    - State "DONE"       from "TODO"       [2017-12-03 Sun 14:15]
    - State "DONE"       from "TODO"       [2017-12-01 Fri 14:57]
    https://www.gnu.org/software/emacs/manual/html_mono/eintr.html
@@ -39,6 +42,9 @@ date: 2017.10 get used to editing with vim or emacs
    :END:
    - State "DONE"       from "TODO"       [2017-11-29 Wed 20:43]
    :LOGBOOK:
+   CLOCK: [2017-12-05 Tue 22:26]--[2017-12-05 Tue 22:39] =>  0:13
+   CLOCK: [2017-12-05 Tue 22:03]--[2017-12-05 Tue 22:26] =>  0:23
+   CLOCK: [2017-12-05 Tue 20:46]--[2017-12-05 Tue 21:11] =>  0:25
    CLOCK: [2017-12-01 Fri 14:23]--[2017-12-01 Fri 14:48] =>  0:25
    CLOCK: [2017-12-01 Fri 13:53]--[2017-12-01 Fri 14:18] =>  0:25
    CLOCK: [2017-12-01 Fri 13:23]--[2017-12-01 Fri 13:48] =>  0:25
