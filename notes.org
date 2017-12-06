@@ -54,7 +54,6 @@ if: Symbol’s function definition is void: org-projectile:capture-for-current-p
 https://jingyan.baidu.com/article/cbf0e500eb95582eaa28932b.html
 
 ** TODO [#C] learn to write a blog                                     :goal:
-   SCHEDULED: <2017-12-01 Fri>
 http://blog.csdn.net/kesarchen/article/details/50579550
 https://zilongshanren.com/blog/2015-07-19-add-org-mode-support.html
   [2017-11-29 Wed 17:51]

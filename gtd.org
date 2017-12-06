@@ -44,11 +44,12 @@
 ** DONE [#B]learn org mode                                            :study:
    CLOSED: [2017-11-29 Wed 18:13] SCHEDULED: <2017-11-29 Wed>
 
-** TODO [#B] remember to watch zilongshanren's videos for master spacemacs
-   SCHEDULED: <2017-12-06 Wed .+2d>
+** TODO [#B] 利用子龙山人录制的视频学习emacs  
+   SCHEDULED: <2017-12-08 Fri .+2d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-12-04 Mon 11:46]
+   :LAST_REPEAT: [2017-12-06 Wed 09:51]
    :END:
+   - State "DONE"       from "TODO"       [2017-12-06 Wed 09:51]
    - State "DONE"       from "TODO"       [2017-12-04 Mon 11:46]
    - State "DONE"       from "TODO"       [2017-12-03 Sun 08:00]
    - State "DONE"       from "TODO"       [2017-12-01 Fri 09:43]
@@ -85,4 +86,27 @@
    :END:
 
 ** TODO [#B] install java develop toolkit  
+
+** DONE [#B] 继续完善指标体系手动建立过程 
+   CLOSED: [2017-12-06 Wed 21:23]
+#+BEGIN: clocktable :maxlevel 2 :scope subtree
+#+CAPTION: Clock summary at [2017-12-06 Wed 21:23]
+| Headline                         | Time   |      |
+|----------------------------------+--------+------|
+| *Total time*                     | *3:02* |      |
+|----------------------------------+--------+------|
+| \_  继续完善指标体系手动建立过程 |        | 3:02 |
+#+END:
+
+   SCHEDULED: <2017-12-06 Wed 10:25>
+   :LOGBOOK:
+   CLOCK: [2017-12-06 Wed 20:42]--[2017-12-06 Wed 21:03] =>  0:21
+   CLOCK: [2017-12-06 Wed 20:12]--[2017-12-06 Wed 20:37] =>  0:25
+   CLOCK: [2017-12-06 Wed 19:36]--[2017-12-06 Wed 20:12] =>  0:36
+   CLOCK: [2017-12-06 Wed 18:33]--[2017-12-06 Wed 18:58] =>  0:25
+   CLOCK: [2017-12-06 Wed 18:03]--[2017-12-06 Wed 18:28] =>  0:25
+   CLOCK: [2017-12-06 Wed 17:01]--[2017-12-06 Wed 17:26] =>  0:25
+   CLOCK: [2017-12-06 Wed 16:08]--[2017-12-06 Wed 16:33] =>  0:25
+   :END:
+
 
