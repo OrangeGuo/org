@@ -77,6 +77,7 @@ sudo poff dsl-provider(unconnected)
 *"tf"* for preview details when you move cursor on the TODO items
 **** ctrl + ENTER 
 *在分级标题中使用此快捷键可以新建同级标题*
+**** 在agenda周/日视图下按下L可查看log,按下R可查看clock  
 ** special skills 
 *** 启动meacs
 *在终端输入 LC_CTYPE=zh_CN.UTF-8 emacs 启动emacs才能在emacs中启用搜狗输入法*

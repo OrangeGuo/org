@@ -87,8 +87,7 @@
 
 ** TODO [#B] install java develop toolkit  
 
-** DONE [#B] 继续完善指标体系手动建立过程 
-   CLOSED: [2017-12-06 Wed 21:23]
+** TODO [#B] complete model constrution 
 #+BEGIN: clocktable :maxlevel 2 :scope subtree
 #+CAPTION: Clock summary at [2017-12-06 Wed 21:23]
 | Headline                         | Time   |      |
@@ -97,6 +96,10 @@
 |----------------------------------+--------+------|
 | \_  继续完善指标体系手动建立过程 |        | 3:02 |
 #+END:
+#+BEGIN_SRC lisp
+  (setq week-range (org-clock-special-range 'thisweek nil t))
+  (org-clock-sum-today-by-tags nil (nth 0 week-range) (nth1 week-range) t)
+#+END_SRC
 
    SCHEDULED: <2017-12-06 Wed 10:25>
    :LOGBOOK:
@@ -108,5 +111,43 @@
    CLOCK: [2017-12-06 Wed 17:01]--[2017-12-06 Wed 17:26] =>  0:25
    CLOCK: [2017-12-06 Wed 16:08]--[2017-12-06 Wed 16:33] =>  0:25
    :END:
-
-
+* Weekly Review
+#+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
+#+CAPTION: Clock summary at [2017-12-06 Wed 22:51], for week 2017-W49.
+| File       | Headline                                     | Time   |      |
+|------------+----------------------------------------------+--------+------|
+|            | ALL *Total time*                             | *5:18* |      |
+|------------+----------------------------------------------+--------+------|
+| career.org | *File time*                                  | *1:01* |      |
+|            | Learn Emacs                                  | 1:01   |      |
+|            | \_  learn elisp                              |        | 1:01 |
+|------------+----------------------------------------------+--------+------|
+| gtd.org    | *File time*                                  | *4:17* |      |
+|            | Workspace                                    | 4:17   |      |
+|            | \_  finish software test experiment document |        | 1:15 |
+|            | \_  complete model constrution               |        | 3:02 |
+#+END:
+#+BEGIN_SRC emacs-lisp :results value
+(setq week-range (org-clock-special-range 'thisweek nil t))
+(org-clock-sum-today-by-tags nil (nth 0 week-range) (nth 1 week-range) t)
+#+END_SRC
+* Monthly Review
+#+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thismonth :fileskip0 t :indent t
+#+CAPTION: Clock summary at [2017-12-06 Wed 22:51], for December 2017.
+| File       | Headline                                     | Time   |      |
+|------------+----------------------------------------------+--------+------|
+|            | ALL *Total time*                             | *6:33* |      |
+|------------+----------------------------------------------+--------+------|
+| career.org | *File time*                                  | *2:16* |      |
+|            | Learn Emacs                                  | 2:16   |      |
+|            | \_  learn elisp                              |        | 2:16 |
+|------------+----------------------------------------------+--------+------|
+| gtd.org    | *File time*                                  | *4:17* |      |
+|            | Workspace                                    | 4:17   |      |
+|            | \_  finish software test experiment document |        | 1:15 |
+|            | \_  complete model constrution               |        | 3:02 |
+#+END:
+#+BEGIN_SRC emacs-lisp :results value
+(setq week-range (org-clock-special-range 'thisweek nil t))
+(org-clock-sum-today-by-tags nil (nth 0 week-range) (nth 1 week-range) t)
+#+END_SRC
