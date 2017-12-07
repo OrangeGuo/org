@@ -56,3 +56,45 @@ flower
          (message "result is %d"(* 7 number)))
      #+END_SRC
 ***** 3.3 介绍了函数定义，和交互型函数
+***** 3.6介绍了重要的let 
+*let和setq的比较*
+1. 相同:都可以定义变量,将一个符号绑定到一个具体的值
+2. 不同:let定义的是临时变量,仅仅在let函数范围内生效,不影响其他地方相同名的变量
+而setq定义的是局部变量,在一定范围如当前缓冲区内生效
+*具体例子*
+#+BEGIN_SRC lisp
+  (let ((hello "hello")
+        (world "world"))
+    (message "%s %s !!!"
+             hello world))
+#+END_SRC
+上述例子中,我们可以看到let语句由3部分组成
+1.let 语句自身
+2.定义的变量名和对应值的集合
+3.其他代码
+*注*
+如果变量未被初始化,系统将默认为nil.
+***** 3.7介绍语句 
+基本结构和使用与C语言,Java中一致
+#+BEGIN_SRC lisp 
+  (defun type-of-animal (attribute)
+    "judge from attributes of animal
+  if attribute is fierce then animal is tiger"
+    (if (equal attribute "fierce")
+        (message "it is tiger!")))
+
+  (type-of-animal "fierce")
+#+END_SRC
+***** 3.9 Lisp中的nil 
+lisp中nil意味着空的列表或布尔表达式的结果false
+除此以外均被认为是true
+#+BEGIN_SRC lisp
+  (if 4
+      'true
+    'false)
+  (if nil
+      'true
+    'false)
+#+END_SRC
+***** 3.10 save-excusion
+初步介绍了point和mark,两者都是记录位置,前者记录光标位置即光标停留字符处于对应buffer中的位置

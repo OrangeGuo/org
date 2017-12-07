@@ -44,7 +44,7 @@
 ** DONE [#B]learn org mode                                            :study:
    CLOSED: [2017-11-29 Wed 18:13] SCHEDULED: <2017-11-29 Wed>
 
-** TODO [#B] 利用子龙山人录制的视频学习emacs  
+** TODO [#B] learn emacs by watcing videos                           :study:
    SCHEDULED: <2017-12-08 Fri .+2d>
    :PROPERTIES:
    :LAST_REPEAT: [2017-12-06 Wed 09:51]
@@ -85,9 +85,9 @@
    CLOCK: [2017-12-05 Tue 13:41]--[2017-12-05 Tue 14:06] =>  0:25
    :END:
 
-** TODO [#B] install java develop toolkit  
+** TODO [#B] install java develop toolkit                              :temp:
 
-** TODO [#B] complete model constrution 
+** TODO [#B] complete model constrution                                :work:
 #+BEGIN: clocktable :maxlevel 2 :scope subtree
 #+CAPTION: Clock summary at [2017-12-06 Wed 21:23]
 | Headline                         | Time   |      |
