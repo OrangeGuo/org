@@ -70,7 +70,8 @@ https://zilongshanren.com/blog/2015-07-19-add-org-mode-support.html
   [[file:~/org-notes/ubuntu.org::*enter%20"t"%20to%20change%20state(todo%20done)%20of%20task%20when%20your%20cursor%20is%20on%20task][enter "t" to change state(todo done) of task when your cursor is on task]] 
   [2017-11-29 Wed 18:04]
 
-** TODO [#B] take notes about vim and emacs                            :plan:
+** DONE [#B] take notes about vim and emacs                            :plan:
+   CLOSED: [2017-12-08 Fri 15:24]
   
   [[file:~/org-notes/ubuntu.org::*find%20and%20replace][find and replace]] 
   [2017-12-02 Sat 13:15]
@@ -80,6 +81,15 @@ https://zilongshanren.com/blog/2015-07-19-add-org-mode-support.html
   
   [[file:~/web/model.js::var%20input%20=%20document.createElement("input");]] 
   [2017-12-02 Sat 16:36]
+
+** TODO clean my notes weekly                                         :life:
+   SCHEDULED: <2017-12-15 Fri 19:00 .+1w>
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-12-08 Fri 16:18]
+   :END:
+  
+   - State "DONE"       from "TODO"       [2017-12-08 Fri 16:18]
+  [2017-12-08 Fri 16:03]
 
 * Blog Ideas
 

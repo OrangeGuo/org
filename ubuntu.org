@@ -1,4 +1,4 @@
-#+TITLE: ubuntu daily 
+#+TITLE: linux daily 
 * ubuntu backups in case 
 ** nice applications
 1. plank:bottom bar
@@ -36,8 +36,10 @@ sudo pon dsl-provider(connected)
 sudo poff dsl-provider(unconnected)
 #+END_SRC
 (warning:but i have renamed dsl-provider to cn,which means chinanet)
-* vim commands
-** keymap
+* editors tutorials 
+** Vim
+*** key bindings 
+#+caption: 常用快捷键
 | key  | function           |
 |------+--------------------|
 | hjkl | direction          |
@@ -46,15 +48,27 @@ sudo poff dsl-provider(unconnected)
 | dw   | delete word        |
 | daw  | delete cursor word |
 |      |                    |
-** common commands
+*** common commands
 **** find and replace
      #+BEGIN_SRC 
  all buffer  :%s/old/new/g "g" means without confirm ("c" need confirm one by one)
  current line  :s/old/new/g 
  line n1 to n2  :n1,n2s/old/new/g  
      #+END_SRC
-* spacemacs tips
-** common but important commands 
+*** use of marks 
+#+caption: 标记的使用 
+| commands   | note             |
+|------------+------------------|
+| mx         | set mark 'x'     |
+| 'x         | jump to mark 'x' |
+| :marks     | list all mark    |
+| :delmarks  | del one mark     |
+| :delmarks! | del all marks    |
+*注*
+使用命令 :delmarks a 即可删除标记a
+
+** Emacs for space
+*** common commands 
 **** enable/disable grammar check :space+t+S
 **** open the category in the buffer :space+f+j
 **** save the buffer: space+f+s
@@ -65,37 +79,54 @@ sudo poff dsl-provider(unconnected)
 **** dired-mode:+for new directory,D for delete file or directory 
 **** exec multi commands: C+number
 **** find definition of function in emacs :C+h+f(or v for varies)
-** org agenda
-**** enter "+" to change priority of todo item
-**** enter "," and "." to call menus
-**** enter ",s"/",d" to set schedule/deadline time
-**** enter "t" to change state(todo done) of task when your cursor is on task
-**** enter "i" to write diary
-**** enter "z" to take note about TODO items where cursor is on 
-**** enter "spc a o s" to search in your org files
-**** enter ", ." to get into menus
-*"tf"* for preview details when you move cursor on the TODO items
+*** org agenda
+#+caption: agenda常用快捷键
+| key |            note |
+|-----+-----------------|
+| <c> |             <r> |
+| +   | change priority |
+| t   |    change state |
+| i   |     write diary |
+| z   |       take note |
+| ,.  |      show menus |
+| ,   |    more options |
+**** 在agenda周/日视图下按下L可查看log,按下R可查看clock  
+*Tips*
+agenda中选择task按下",I"开始计时,",O"停止计时 
+#+caption: 显示效果
+     [[/home/orange/org-notes/picture/clock.png]]
+*** org mode
+**** export to pdf html and so on
+C-c C-e 可以打开导出菜单
 **** ctrl + ENTER 
 *在分级标题中使用此快捷键可以新建同级标题*
-**** 在agenda周/日视图下按下L可查看log,按下R可查看clock  
-** special skills 
-*** 启动meacs
+**** org-indent-mode 
+按格式缩进
+*** better configs
+**** 启动meacs
 *在终端输入 LC_CTYPE=zh_CN.UTF-8 emacs 启动emacs才能在emacs中启用搜狗输入法*
-*** 代码块中直接开启新的缓冲区编辑代码 
+**** 代码块中直接开启新的缓冲区编辑代码 
 快捷键：C-c '（注：代码块需注明编程语言） 
-* MySql note for version 5.7
-** start and stop
+**** 查看 emacs 中各函数CPU和内存占用
+- 使用M-x调用 profiler-start启动监控
+- 然后调用 profiler-report 查看占用
+- 最后使用 profiler-stop 关闭监控
+**** 在 vim的insert模式下启用emacs原有按键
+将spacemacs 按键风格设置为 hybrid 并按下SPC t E h即可在insert的模式启动emacs原生快捷键
+* other
+** MySql note for version 5.7
+*** start and stop
 sudo service mysql status to check mysql's state(isActive)
 sudo service mysql start to start mysql
 sudo service mysql stop to stop mysql
-** login
+*** login
 mysql -u username -p(+database)
 example: mysql -u root -p soft
-** forbidden startp 
+*** forbidden startp 
 #+BEGIN_SRC 
 sudo update-rc.d -f mysql remove
 #+END_SRC
-* mistakes
-** commands
+** lesson 
+*** commands
 **** rar x target.rar for unrar target.rar
 **** rar a target.rar file for add file to target.rar 
