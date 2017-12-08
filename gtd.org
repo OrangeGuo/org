@@ -100,13 +100,11 @@
 |----------------------------------+--------+------|
 | \_  继续完善指标体系手动建立过程 |        | 3:02 |
 #+END:
-#+BEGIN_SRC lisp
-  (setq week-range (org-clock-special-range 'thisweek nil t))
-  (org-clock-sum-today-by-tags nil (nth 0 week-range) (nth1 week-range) t)
-#+END_SRC
 
-   SCHEDULED: <2017-12-06 Wed 10:25>
+SCHEDULED: <2017-12-06 Wed 10:25>
    :LOGBOOK:
+   CLOCK: [2017-12-08 Fri 19:22]--[2017-12-08 Fri 20:38] =>  1:40
+   CLOCK: [2017-12-08 Fri 18:49]--[2017-12-08 Fri 18:58] =>  0:09
    CLOCK: [2017-12-06 Wed 20:42]--[2017-12-06 Wed 21:03] =>  0:21
    CLOCK: [2017-12-06 Wed 20:12]--[2017-12-06 Wed 20:37] =>  0:25
    CLOCK: [2017-12-06 Wed 19:36]--[2017-12-06 Wed 20:12] =>  0:36
@@ -132,6 +130,13 @@
    :LOGBOOK:
    CLOCK: [2017-12-08 Fri 14:16]--[2017-12-08 Fri 14:56] =>  0:40
    :END:
+
+** [#B] watch movies                                                   :life:
+   :LOGBOOK:
+   CLOCK: [2017-12-08 Fri 18:58]--[2017-12-08 Fri 19:17] =>  0:19
+   CLOCK: [2017-12-08 Fri 17:40]--[2017-12-08 Fri 18:49] =>  1:09
+   :END:
+daily life activities
 
 * Weekly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
