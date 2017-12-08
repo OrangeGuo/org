@@ -1,0 +1,8 @@
+#+Title:Daily Programming
+* problems and solutions(tips)
+*** java
+****  Java-Web project can't load database driver(Class-Not-Found exception)
+*solutions*:put jars about the database driver into folder "lib" under web-root(
+Java-Web runs only with loading folder "web-root"）
+**** can't find main method 
+*solutions*:mainly due to add jars to project incorrectly
