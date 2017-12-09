@@ -98,3 +98,18 @@ lisp中nil意味着空的列表或布尔表达式的结果false
 #+END_SRC
 ***** 3.10 save-excusion
 初步介绍了point和mark,两者都是记录位置,前者记录光标位置即光标停留字符处于对应buffer中的位置
+#+BEGIN_SRC lisp
+  (message "we are %d characters into this buffer."
+           (- (point)
+              (save-excursion
+                (goto-char (point-min)) (point))))
+
+#+END_SRC
+***** 3.11 常见的宏 
+      #+BEGIN_SRC lisp
+        (buffer-name)
+        (buffer-file-name)
+        (current-buffer)
+        (other-buffer)
+        (buffer-size)
+      #+END_SRC

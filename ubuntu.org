@@ -39,7 +39,7 @@ sudo poff dsl-provider(unconnected)
 * editors tutorials 
 ** Vim
 *** key bindings 
-#+caption: 常用快捷键
+#+caption: key bindings 
 | key  | function           |
 |------+--------------------|
 | hjkl | direction          |
@@ -56,7 +56,7 @@ sudo poff dsl-provider(unconnected)
  line n1 to n2  :n1,n2s/old/new/g  
      #+END_SRC
 *** use of marks 
-#+caption: 标记的使用 
+#+caption: key bindings 
 | commands   | note             |
 |------------+------------------|
 | mx         | set mark 'x'     |
@@ -64,23 +64,32 @@ sudo poff dsl-provider(unconnected)
 | :marks     | list all mark    |
 | :delmarks  | del one mark     |
 | :delmarks! | del all marks    |
-*注*
-使用命令 :delmarks a 即可删除标记a
+*tips*
+example:delmarks a to delete mark "a"
 
 ** Emacs for space
 *** common commands 
 **** enable/disable grammar check :space+t+S
-**** open the category in the buffer :space+f+j
 **** save the buffer: space+f+s
 **** split the window: space+w+//-(right or below)
 **** list git log: space+g+s(press ENTER to see details)
 **** commit : space+g+m+c(more options for tutorials),C-c C-c to submit and C-c C-k to cancle
 **** find file or touch a file: space+f+f
-**** dired-mode:+for new directory,D for delete file or directory 
 **** exec multi commands: C+number
 **** find definition of function in emacs :C+h+f(or v for varies)
+*** dired mode 
+#+caption: key bindings
+| key | description            |
+|-----+------------------------|
+| d   | mark items to delete   |
+| c   | copy items             |
+| R   | rename items           |
+| D   | delete items           |
+| u   | cancle marks           |
+| x   | deal with marked items |
+*tips*:press space f j to dired mode 
 *** org agenda
-#+caption: agenda常用快捷键
+#+caption: agenda key bindings
 | key |            note |
 |-----+-----------------|
 | <c> |             <r> |
@@ -90,18 +99,17 @@ sudo poff dsl-provider(unconnected)
 | z   |       take note |
 | ,.  |      show menus |
 | ,   |    more options |
-**** 在agenda周/日视图下按下L可查看log,按下R可查看clock  
+****  press L for log (R for clock) on weekly or daily agenda view 
 *Tips*
-agenda中选择task按下",I"开始计时,",O"停止计时 
-#+caption: 显示效果
+agenda select task and press I to start timer(or O to stop timer) 
+#+caption: screen shot
      [[/home/orange/org-notes/picture/clock.png]]
 *** org mode
 **** export to pdf html and so on
-C-c C-e 可以打开导出菜单
+C-c C-e 
 **** ctrl + ENTER 
 *在分级标题中使用此快捷键可以新建同级标题*
 **** org-indent-mode 
-按格式缩进
 *** better configs
 **** 启动meacs
 *在终端输入 LC_CTYPE=zh_CN.UTF-8 emacs 启动emacs才能在emacs中启用搜狗输入法*
