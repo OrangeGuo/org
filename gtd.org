@@ -11,9 +11,6 @@
 ** DONE [#B] complete RequestAnalyse Document
    SCHEDULED: <2017-11-17 Fri 16:00>
 
-** DONE [#B] go for a date and a good night
-   SCHEDULED: <2017-11-18 Sat>
-
 ** DONE [#B] config software test environment
    SCHEDULED: <2017-11-19 Sun 20:30>
 
@@ -72,6 +69,9 @@
 
 ** DONE [#A] review book for forthcoming Software Project exam  
    CLOSED: [2017-12-03 Sun 14:13] SCHEDULED: <2017-12-02 Sat 20:30>
+   :LOGBOOK:
+   CLOCK: [2017-12-10 Sun 15:22]--[2017-12-10 Sun 17:11] =>  1:49
+   :END:
 
    - Note taken on [2017-12-02 Sat 17:10] \\
      test 2017-11-23
@@ -105,12 +105,16 @@
    CLOCK: [2017-12-06 Wed 16:08]--[2017-12-06 Wed 16:33] =>  0:25
    :END:
 
-** TODO [#B] watch teleplay by Huge                                   :life:
+** TODO [#B] watch teleplay by Huge                                    :life:
+- Note taken on [2017-12-10 Sun 13:34] \\
+  finish 52
    - Note taken on [2017-12-08 Fri 13:26] \\
      finish 48
    - Note taken on [2017-12-08 Fri 10:47] \\
      finish 46
    :LOGBOOK:
+   CLOCK: [2017-12-10 Sun 12:13]--[2017-12-10 Sun 12:53] =>  0:40
+   CLOCK: [2017-12-10 Sun 11:05]--[2017-12-10 Sun 11:41] =>  0:36
    CLOCK: [2017-12-09 Sat 12:06]--[2017-12-09 Sat 13:40] =>  1:34
    CLOCK: [2017-12-08 Fri 12:13]--[2017-12-08 Fri 13:26] =>  1:13
    CLOCK: [2017-12-08 Fri 10:06]--[2017-12-08 Fri 10:47] =>  0:41
@@ -130,23 +134,30 @@
    :END:
 daily life activities
 
+** DONE [#B] go for a date and a good night
+   SCHEDULED: <2017-11-18 Sat>
+* life
+
+
 * Weekly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2017-12-08 Fri 14:17], for week 2017-W49.
+#+CAPTION: Clock summary at [2017-12-10 Sun 15:22], for week 2017-W49.
 | File       | Headline                                     | Time    |      |
 |------------+----------------------------------------------+---------+------|
-|            | ALL *Total time*                             | *10:10* |      |
+|            | ALL *Total time*                             | *19:04* |      |
 |------------+----------------------------------------------+---------+------|
-| career.org | *File time*                                  | *2:33*  |      |
-|            | Learn Emacs                                  | 2:33    |      |
-|            | \_  learn elisp                              |         | 2:33 |
+| career.org | *File time*                                  | *3:57*  |      |
+|            | Learn Emacs                                  | 3:57    |      |
+|            | \_  learn elisp                              |         | 3:57 |
 |------------+----------------------------------------------+---------+------|
-| gtd.org    | *File time*                                  | *7:37*  |      |
-|            | Workspace                                    | 7:37    |      |
-|            | \_  learn emacs by watcing videos            |         | 0:44 |
+| gtd.org    | *File time*                                  | *15:07* |      |
+|            | Workspace                                    | 15:07   |      |
+|            | \_  learn emacs by watcing videos            |         | 1:51 |
 |            | \_  finish software test experiment document |         | 1:15 |
-|            | \_  complete model constrution               |         | 3:02 |
-|            | \_  watch teleplay by Huge                   |         | 2:36 |
+|            | \_  complete model constrution               |         | 4:27 |
+|            | \_  watch teleplay by Huge                   |         | 5:26 |
+|            | \_  learn emacs tutorials                    |         | 0:40 |
+|            | \_  watch movies                             |         | 1:28 |
 #+END:
 #+BEGIN_SRC emacs-lisp :results value
 (setq week-range (org-clock-special-range 'thisweek nil t))
@@ -154,23 +165,26 @@ daily life activities
 #+END_SRC
 * Monthly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thismonth :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2017-12-08 Fri 14:17], for December 2017.
+#+CAPTION: Clock summary at [2017-12-10 Sun 10:59], for December 2017.
 | File       | Headline                                     | Time    |      |
 |------------+----------------------------------------------+---------+------|
-|            | ALL *Total time*                             | *11:25* |      |
+|            | ALL *Total time*                             | *19:03* |      |
 |------------+----------------------------------------------+---------+------|
-| career.org | *File time*                                  | *3:48*  |      |
-|            | Learn Emacs                                  | 3:48    |      |
-|            | \_  learn elisp                              |         | 3:48 |
+| career.org | *File time*                                  | *5:12*  |      |
+|            | Learn Emacs                                  | 5:12    |      |
+|            | \_  learn elisp                              |         | 5:12 |
 |------------+----------------------------------------------+---------+------|
-| gtd.org    | *File time*                                  | *7:37*  |      |
-|            | Workspace                                    | 7:37    |      |
-|            | \_  learn emacs by watcing videos            |         | 0:44 |
+| gtd.org    | *File time*                                  | *13:51* |      |
+|            | Workspace                                    | 13:51   |      |
+|            | \_  learn emacs by watcing videos            |         | 1:51 |
 |            | \_  finish software test experiment document |         | 1:15 |
-|            | \_  complete model constrution               |         | 3:02 |
-|            | \_  watch teleplay by Huge                   |         | 2:36 |
+|            | \_  complete model constrution               |         | 4:27 |
+|            | \_  watch teleplay by Huge                   |         | 4:10 |
+|            | \_  learn emacs tutorials                    |         | 0:40 |
+|            | \_  watch movies                             |         | 1:28 |
 #+END:
 #+BEGIN_SRC emacs-lisp :results value
 (setq week-range (org-clock-special-range 'thisweek nil t))
 (org-clock-sum-today-by-tags nil (nth 0 week-range) (nth 1 week-range) t)
 #+END_SRC
+
