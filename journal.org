@@ -32,5 +32,10 @@ Althougth it just provides user with 500 M/month,it's is enough for me,emmmmm,th
 **** 学会在 emacs 下输入中文的第二天 
   感觉依然兴奋，依然开心。经过一番简单的测试，在emacs中启用外置搜狗输入法，虽然标点符号的显示位置有些问题，但基
 本不影响日常使用。这个对我来说可以说是一个神技，意味着我以后可以用emacs来记笔记，写博客。哈哈哈
+*** 2017-12-12 Tuesday
 
+**** game is life 
+i restart to play game which i uninstalled about half month ago.after two hours' 
+relaxing,i feel tired and scared.cause i think i get addicted to the game again.
+But i have to control my time spent on playing games.
 
