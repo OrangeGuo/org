@@ -26,11 +26,12 @@ date: 2017.10 get used to editing with vim or emacs
    :Attachments: career.org
    :ID:       80e354bb-47c0-4d5a-9f63-80bf36e1bd19
    :END:
-** TODO [#B] learn elisp                                             :study:
-   SCHEDULED: <2017-12-11 Mon 20:45 .+2d>
+** TODO [#B] learn elisp                                            :study:
+   SCHEDULED: <2017-12-15 Fri 20:45 .+2d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-12-09 Sat 15:08]
+   :LAST_REPEAT: [2017-12-13 Wed 10:56]
    :END:
+   - State "DONE"       from "TODO"       [2017-12-13 Wed 10:56]
    - Note taken on [2017-12-09 Sat 15:08] \\
      ready for chapter five
    - State "DONE"       from "TODO"       [2017-12-09 Sat 15:08]
@@ -50,6 +51,7 @@ date: 2017.10 get used to editing with vim or emacs
    :END:
    - State "DONE"       from "TODO"       [2017-11-29 Wed 20:43]
    :LOGBOOK:
+   CLOCK: [2017-12-13 Wed 09:46]--[2017-12-13 Wed 10:56] =>  1:10
    CLOCK: [2017-12-09 Sat 13:44]--[2017-12-09 Sat 15:08] =>  1:24
    CLOCK: [2017-12-07 Thu 20:59]--[2017-12-07 Thu 21:55] =>  0:56
    CLOCK: [2017-12-07 Thu 12:25]--[2017-12-07 Thu 13:01] =>  0:36

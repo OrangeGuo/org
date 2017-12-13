@@ -1,4 +1,4 @@
-* Workspace
+* study 
 
 ** DONE [#B]kill the bug in org agenda 
    CLOSED: [2017-11-23 Thu 14:51] SCHEDULED: <2017-11-23 Thu 21:20>
@@ -41,7 +41,8 @@
 ** DONE [#B]learn org mode                                            :study:
    CLOSED: [2017-11-29 Wed 18:13] SCHEDULED: <2017-11-29 Wed>
 
-** TODO [#B] learn emacs by watcing videos                           :study:
+** DONE [#B] learn emacs by watcing videos                          :study:
+CLOSED: [2017-12-13 Wed 11:13]
    :PROPERTIES:
    :LAST_REPEAT: [2017-12-08 Fri 12:51]
    :END:
@@ -94,6 +95,7 @@
 ** [#B] complete model constrution                                    :work:
    SCHEDULED: <2017-12-02 Sat> DEADLINE: <2017-12-15 Fri>
    :LOGBOOK:
+   CLOCK: [2017-12-13 Wed 15:59]--[2017-12-13 Wed 19:39] =>  3:40
    CLOCK: [2017-12-08 Fri 19:22]--[2017-12-08 Fri 20:38] =>  1:40
    CLOCK: [2017-12-08 Fri 18:49]--[2017-12-08 Fri 18:58] =>  0:09
    CLOCK: [2017-12-06 Wed 20:42]--[2017-12-06 Wed 21:03] =>  0:21
@@ -105,7 +107,10 @@
    CLOCK: [2017-12-06 Wed 16:08]--[2017-12-06 Wed 16:33] =>  0:25
    :END:
 
-** TODO [#B] watch teleplay by Huge                                    :life:
+** DONE [#B] watch teleplay by Huge                                  :life:
+CLOSED: [2017-12-13 Wed 23:08]
+- Note taken on [2017-12-13 Wed 12:19] \\
+  finish 54
 - Note taken on [2017-12-12 Tue 22:23] \\
   finish 53
 - Note taken on [2017-12-10 Sun 13:34] \\
@@ -115,6 +120,7 @@
    - Note taken on [2017-12-08 Fri 10:47] \\
      finish 46
    :LOGBOOK:
+ CLOCK: [2017-12-13 Wed 11:13]--[2017-12-13 Wed 12:08] =>  0:55
  CLOCK: [2017-12-12 Tue 21:44]--[2017-12-12 Tue 22:22] => 0:38
    CLOCK: [2017-12-10 Sun 12:13]--[2017-12-10 Sun 12:53] =>  0:40
    CLOCK: [2017-12-10 Sun 11:05]--[2017-12-10 Sun 11:41] =>  0:36
@@ -139,9 +145,12 @@ daily life activities
 
 ** DONE [#B] go for a date and a good night
    SCHEDULED: <2017-11-18 Sat>
+
+** TODO [#B] order book for the next term 
+SCHEDULED: <2017-12-15 Fri 19:00>
+this time i decide to buy old books
+
 * life
-
-
 * Weekly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
 #+CAPTION: Clock summary at [2017-12-12 Tue 22:03], for week 2017-W50.
@@ -179,5 +188,4 @@ daily life activities
 (org-clock-sum-today-by-tags nil (nth 0 week-range) (nth 1 week-range) t)
 #+END_SRC
 
-* Cocos2D-X
 

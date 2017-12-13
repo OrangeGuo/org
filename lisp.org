@@ -41,7 +41,7 @@ flower
 (point-max)
      #+END_SRC
 ***** 主要介绍了文件和缓冲区
-**** chapter tree 
+**** chapter three 
      #+BEGIN_SRC lisp 
        ;;definition
        (defun multiply-by-seven (number)
@@ -112,4 +112,29 @@ lisp中nil意味着空的列表或布尔表达式的结果false
         (current-buffer)
         (other-buffer)
         (buffer-size)
-      #+END_SRC
+      #+END_SR
+**** chapter four 
+introduce some functions about buffer
+***** 4.1 beginning of buffer
+#+BEGIN_SRC lisp
+  (defun simplified-beginning-of-buffer ()
+    "Move point to the beginning of the buffer;
+       leave mark at previous position."
+    (interactive)
+    (push-mark)
+    (goto-char (point-min)))
+#+END_SRC
+*tip*:C-x C-x back to the point before
+***** mark whole buffer
+#+BEGIN_SRC lisp 
+  (defun mark-whole-buffer ()
+    (interactive)
+    (push-mark (point))
+    (push-mark (point-max) nil t)
+    (goto-char (point-min)))
+  (mark-whole-buffer)
+#+END_SRC
+***** append to buffer 
+#+BEGIN_SRC lisp
+  (other-buffer (current-buffer) t)
+#+END_SRC

@@ -36,6 +36,9 @@ sudo pon dsl-provider(connected)
 sudo poff dsl-provider(unconnected)
 #+END_SRC
 (warning:but i have renamed dsl-provider to cn,which means chinanet)
+** findings 
+**** change logo left of top
+/usr/share/locate/en/LC_MESSAGES/unity.mo
 * editors tutorials 
 ** Vim
 *** key bindings 
