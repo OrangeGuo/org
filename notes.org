@@ -83,7 +83,7 @@ https://zilongshanren.com/blog/2015-07-19-add-org-mode-support.html
   [2017-12-02 Sat 16:36]
 
 ** TODO clean my notes weekly                                         :life:
-   SCHEDULED: <2017-12-15 Fri 19:00 .+1w>
+   SCHEDULED: <2017-12-15 Fri 19:30 .+1w>
    :PROPERTIES:
    :LAST_REPEAT: [2017-12-08 Fri 16:18]
    :END:
