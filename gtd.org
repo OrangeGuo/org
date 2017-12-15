@@ -116,26 +116,36 @@ CLOSED: [2017-12-13 Wed 11:13]
 ** DONE [#B] go for a date and a good night
    SCHEDULED: <2017-11-18 Sat>
 
-** TODO [#B] order book for the next term 
-SCHEDULED: <2017-12-15 Fri 19:00>
+** DONE [#B] order book for the next term 
+CLOSED: [2017-12-15 Fri 19:26] SCHEDULED: <2017-12-15 Fri 19:00>
 this time i decide to buy old books
 
 ** DONE [#B] check mooc online 
 CLOSED: [2017-12-14 Thu 21:01] SCHEDULED: <2017-12-14 Thu 21:00>
 
 ** TODO [#B] type a essay for cet 6  
-SCHEDULED: <2017-12-14 Thu .+1d>
+SCHEDULED: <2017-12-16 Sat .+1d>
+:PROPERTIES:
+:LAST_REPEAT: [2017-12-15 Fri 19:26]
+:END:
+- State "DONE"       from "TODO"       [2017-12-15 Fri 19:26]
+- State "DONE"       from "TODO"       [2017-12-15 Fri 10:58]
 :LOGBOOK:
+CLOCK: [2017-12-15 Fri 10:44]--[2017-12-15 Fri 10:58] =>  0:14
 CLOCK: [2017-12-14 Thu 21:29]--[2017-12-14 Thu 22:10] =>  0:41
 :END:
 
 * life
 ** TODO [#B] watch movies                                            :life:
+- Note taken on [2017-12-15 Fri 14:09] \\
+  the film i watch is <spider man: hero come back> this week.But i feel a little down.
+  there are nothing new or special,the plots of the film is boring and out of date.
 - Note taken on [2017-12-14 Thu 15:21] \\
   up to 13 minutes
 - Note taken on [2017-12-14 Thu 14:54] \\
   The film is called <<Lucy>>,and it was played three years ago.The main story is about the process a woman explore her brain from 10% to 100% by accident.
    :LOGBOOK:
+ CLOCK: [2017-12-15 Fri 12:05]--[2017-12-15 Fri 14:37] =>  2:32
  CLOCK: [2017-12-14 Thu 15:04]--[2017-12-14 Thu 15:20] =>  0:16
    CLOCK: [2017-12-08 Fri 18:58]--[2017-12-08 Fri 19:17] =>  0:19
    CLOCK: [2017-12-08 Fri 17:40]--[2017-12-08 Fri 18:49] =>  1:09
@@ -168,21 +178,22 @@ CLOCK: [2017-12-12 Tue 21:44]--[2017-12-12 Tue 22:22] => 0:38
 
 * Weekly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2017-12-14 Thu 15:24], for week 2017-W50.
-| File       | Headline                       | Time   |      |
-|------------+--------------------------------+--------+------|
-|            | ALL *Total time*               | *9:20* |      |
-|------------+--------------------------------+--------+------|
-| career.org | *File time*                    | *1:16* |      |
-|            | Learn Emacs                    | 1:16   |      |
-|            | \_  learn elisp                |        | 1:16 |
-|------------+--------------------------------+--------+------|
-| gtd.org    | *File time*                    | *8:04* |      |
-|            | study                          | 3:40   |      |
-|            | \_  complete model constrution |        | 3:40 |
-|            | life                           | 4:24   |      |
-|            | \_  watch movies               |        | 0:16 |
-|            | \_  watch teleplay by Huge     |        | 4:08 |
+#+CAPTION: Clock summary at [2017-12-15 Fri 14:39], for week 2017-W50.
+| File       | Headline                       | Time    |      |
+|------------+--------------------------------+---------+------|
+|            | ALL *Total time*               | *12:47* |      |
+|------------+--------------------------------+---------+------|
+| career.org | *File time*                    | *1:16*  |      |
+|            | Learn Emacs                    | 1:16    |      |
+|            | \_  learn elisp                |         | 1:16 |
+|------------+--------------------------------+---------+------|
+| gtd.org    | *File time*                    | *11:31* |      |
+|            | study                          | 4:35    |      |
+|            | \_  complete model constrution |         | 3:40 |
+|            | \_  type a essay for cet 6     |         | 0:55 |
+|            | life                           | 6:56    |      |
+|            | \_  watch movies               |         | 2:48 |
+|            | \_  watch teleplay by Huge     |         | 4:08 |
 #+END:
 #+BEGIN_SRC emacs-lisp :results value
 (setq week-range (org-clock-special-range 'thisweek nil t))
@@ -190,25 +201,26 @@ CLOCK: [2017-12-12 Tue 21:44]--[2017-12-12 Tue 22:22] => 0:38
 #+END_SRC
 * Monthly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thismonth :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2017-12-14 Thu 15:25], for December 2017.
-| File       | Headline                                     | Time      |      |
-|------------+----------------------------------------------+-----------+------|
-|            | ALL *Total time*                             | *1d 7:28* |      |
-|------------+----------------------------------------------+-----------+------|
-| career.org | *File time*                                  | *6:28*    |      |
-|            | Learn Emacs                                  | 6:28      |      |
-|            | \_  learn elisp                              |           | 6:28 |
-|------------+----------------------------------------------+-----------+------|
-| gtd.org    | *File time*                                  | *1d 1:00* |      |
-|            | study                                        | 13:42     |      |
-|            | \_  learn emacs by watcing videos            |           | 1:51 |
-|            | \_  review book for forthcoming Software...  |           | 1:49 |
-|            | \_  finish software test experiment document |           | 1:15 |
-|            | \_  complete model constrution               |           | 8:07 |
-|            | \_  learn emacs tutorials                    |           | 0:40 |
-|            | life                                         | 11:18     |      |
-|            | \_  watch movies                             |           | 1:44 |
-|            | \_  watch teleplay by Huge                   |           | 9:34 |
+#+CAPTION: Clock summary at [2017-12-15 Fri 14:39], for December 2017.
+| File       | Headline                                     | Time       |      |
+|------------+----------------------------------------------+------------+------|
+|            | ALL *Total time*                             | *1d 10:55* |      |
+|------------+----------------------------------------------+------------+------|
+| career.org | *File time*                                  | *6:28*     |      |
+|            | Learn Emacs                                  | 6:28       |      |
+|            | \_  learn elisp                              |            | 6:28 |
+|------------+----------------------------------------------+------------+------|
+| gtd.org    | *File time*                                  | *1d 4:27*  |      |
+|            | study                                        | 14:37      |      |
+|            | \_  learn emacs by watcing videos            |            | 1:51 |
+|            | \_  review book for forthcoming Software...  |            | 1:49 |
+|            | \_  finish software test experiment document |            | 1:15 |
+|            | \_  complete model constrution               |            | 8:07 |
+|            | \_  learn emacs tutorials                    |            | 0:40 |
+|            | \_  type a essay for cet 6                   |            | 0:55 |
+|            | life                                         | 13:50      |      |
+|            | \_  watch movies                             |            | 4:16 |
+|            | \_  watch teleplay by Huge                   |            | 9:34 |
 #+END:
 #+BEGIN_SRC emacs-lisp :results value
 (setq week-range (org-clock-special-range 'thisweek nil t))
