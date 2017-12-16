@@ -143,6 +143,7 @@ CLOCK: [2017-12-14 Thu 21:29]--[2017-12-14 Thu 22:10] =>  0:41
 CLOCK: [2017-12-16 Sat 19:32]--[2017-12-16 Sat 21:21] =>  1:49
 :END:
 prepare for exam 
+http://cspro.org/lead/leadbpm.do?__action=goto_iframe&path=CCF_KS_KSLX_LIST&djtype=TT&2
 
 ** TODO [#B]马原在线考试 MOOC                                        :exam:
 DEADLINE: <2017-12-29 Fri> SCHEDULED: <2017-12-15 Fri>
