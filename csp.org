@@ -1,0 +1,14 @@
+#+title:My journal of CCF CSP
+* title to modify
+** day01
+*** result
+[[~/org-notes/picture/day01.png]]
+*** summary
+| question | time | grade | key           |
+|        1 |    1 |   100 | nothing       |
+|        2 |    4 |   100 | through[fn:1] |
+|        3 |    4 |   100 | test[fn:2]    |
+[fn:1] The problem is not difficult,but i didn't not to look at the question 
+carefully. 
+[fn:2] It's important to test before submit code on paper.
+ 

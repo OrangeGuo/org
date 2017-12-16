@@ -92,8 +92,10 @@ CLOSED: [2017-12-13 Wed 11:13]
 
 ** TODO [#B] install java develop toolkit                              :temp:
 
-** [#B] complete model constrution                                    :work:
-   SCHEDULED: <2017-12-02 Sat> DEADLINE: <2017-12-15 Fri>
+** DONE [#B] complete model constrution                              :work:
+   CLOSED: [2017-12-16 Sat 14:25] SCHEDULED: <2017-12-02 Sat> DEADLINE: <2017-12-15 Fri>
+   - Note taken on [2017-12-16 Sat 16:08] \\
+     already finish my part of project
    :LOGBOOK:
    CLOCK: [2017-12-13 Wed 15:59]--[2017-12-13 Wed 19:39] =>  3:40
    CLOCK: [2017-12-08 Fri 19:22]--[2017-12-08 Fri 20:38] =>  1:40
@@ -123,11 +125,12 @@ this time i decide to buy old books
 ** DONE [#B] check mooc online 
 CLOSED: [2017-12-14 Thu 21:01] SCHEDULED: <2017-12-14 Thu 21:00>
 
-** TODO [#B] type a essay for cet 6  
-SCHEDULED: <2017-12-16 Sat .+1d>
+** TODO [#B] type a essay for cet 6                                   :plan:
+SCHEDULED: <2017-12-17 Sun .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2017-12-15 Fri 19:26]
+:LAST_REPEAT: [2017-12-16 Sat 14:24]
 :END:
+- State "DONE"       from "TODO"       [2017-12-16 Sat 14:24]
 - State "DONE"       from "TODO"       [2017-12-15 Fri 19:26]
 - State "DONE"       from "TODO"       [2017-12-15 Fri 10:58]
 :LOGBOOK:
@@ -135,7 +138,15 @@ CLOCK: [2017-12-15 Fri 10:44]--[2017-12-15 Fri 10:58] =>  0:14
 CLOCK: [2017-12-14 Thu 21:29]--[2017-12-14 Thu 22:10] =>  0:41
 :END:
 
-* life
+** TODO [#B] CCF CSP exam                                             :plan:
+:LOGBOOK:
+CLOCK: [2017-12-16 Sat 19:32]--[2017-12-16 Sat 21:21] =>  1:49
+:END:
+prepare for exam 
+
+** TODO [#B]马原在线考试 MOOC                                        :exam:
+DEADLINE: <2017-12-29 Fri> SCHEDULED: <2017-12-15 Fri>
+45min,only once* life
 ** TODO [#B] watch movies                                            :life:
 - Note taken on [2017-12-15 Fri 14:09] \\
   the film i watch is <spider man: hero come back> this week.But i feel a little down.
@@ -178,14 +189,14 @@ CLOCK: [2017-12-12 Tue 21:44]--[2017-12-12 Tue 22:22] => 0:38
 
 * Weekly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2017-12-15 Fri 14:39], for week 2017-W50.
+#+CAPTION: Clock summary at [2017-12-16 Sat 14:46], for week 2017-W50.
 | File       | Headline                       | Time    |      |
 |------------+--------------------------------+---------+------|
-|            | ALL *Total time*               | *12:47* |      |
+|            | ALL *Total time*               | *13:39* |      |
 |------------+--------------------------------+---------+------|
-| career.org | *File time*                    | *1:16*  |      |
-|            | Learn Emacs                    | 1:16    |      |
-|            | \_  learn elisp                |         | 1:16 |
+| career.org | *File time*                    | *2:08*  |      |
+|            | Learn Emacs                    | 2:08    |      |
+|            | \_  learn elisp                |         | 2:08 |
 |------------+--------------------------------+---------+------|
 | gtd.org    | *File time*                    | *11:31* |      |
 |            | study                          | 4:35    |      |
@@ -201,14 +212,14 @@ CLOCK: [2017-12-12 Tue 21:44]--[2017-12-12 Tue 22:22] => 0:38
 #+END_SRC
 * Monthly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thismonth :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2017-12-15 Fri 14:39], for December 2017.
+#+CAPTION: Clock summary at [2017-12-16 Sat 14:46], for December 2017.
 | File       | Headline                                     | Time       |      |
 |------------+----------------------------------------------+------------+------|
-|            | ALL *Total time*                             | *1d 10:55* |      |
+|            | ALL *Total time*                             | *1d 11:47* |      |
 |------------+----------------------------------------------+------------+------|
-| career.org | *File time*                                  | *6:28*     |      |
-|            | Learn Emacs                                  | 6:28       |      |
-|            | \_  learn elisp                              |            | 6:28 |
+| career.org | *File time*                                  | *7:20*     |      |
+|            | Learn Emacs                                  | 7:20       |      |
+|            | \_  learn elisp                              |            | 7:20 |
 |------------+----------------------------------------------+------------+------|
 | gtd.org    | *File time*                                  | *1d 4:27*  |      |
 |            | study                                        | 14:37      |      |

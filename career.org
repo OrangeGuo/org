@@ -27,10 +27,11 @@ date: 2017.10 get used to editing with vim or emacs
    :ID:       80e354bb-47c0-4d5a-9f63-80bf36e1bd19
    :END:
 ** TODO [#B] learn elisp                                            :study:
-   SCHEDULED: <2017-12-15 Fri 20:45 .+2d>
+   SCHEDULED: <2017-12-18 Mon 20:45 .+2d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-12-13 Wed 10:56]
+   :LAST_REPEAT: [2017-12-16 Sat 14:02]
    :END:
+   - State "DONE"       from "TODO"       [2017-12-16 Sat 14:02]
    - State "DONE"       from "TODO"       [2017-12-13 Wed 10:56]
    - Note taken on [2017-12-09 Sat 15:08] \\
      ready for chapter five

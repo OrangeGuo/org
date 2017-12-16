@@ -36,6 +36,8 @@ sudo pon dsl-provider(connected)
 sudo poff dsl-provider(unconnected)
 #+END_SRC
 (warning:but i have renamed dsl-provider to cn,which means chinanet)
+** apt repository 
+[[~/org-notes/picture/apt.png]]
 ** findings 
 **** change logo left of top
 /usr/share/locate/en/LC_MESSAGES/unity.mo
@@ -141,3 +143,5 @@ sudo update-rc.d -f mysql remove
 *** commands
 **** rar x target.rar for unrar target.rar
 **** rar a target.rar file for add file to target.rar 
+*** grub windows in ubuntu16
+[[~/org-notes/picture/grub.png]]
