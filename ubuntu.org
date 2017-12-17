@@ -139,6 +139,13 @@ example: mysql -u root -p soft
 #+BEGIN_SRC 
 sudo update-rc.d -f mysql remove
 #+END_SRC
+*** common commands 
+| commands[fn:1]         | notes                  |
+|------------------------+------------------------|
+| show databases         | list all databases     |
+| create database target | create database target |
+| drop database trash    | delete database trash  |
+[fn:1] all commands must end with ';' !
 ** lesson 
 *** commands
 **** rar x target.rar for unrar target.rar

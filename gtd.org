@@ -125,11 +125,12 @@ this time i decide to buy old books
 ** DONE [#B] check mooc online 
 CLOSED: [2017-12-14 Thu 21:01] SCHEDULED: <2017-12-14 Thu 21:00>
 
-** TODO [#B] type a essay for cet 6                                   :plan:
-SCHEDULED: <2017-12-17 Sun .+1d>
+** TODO [#B] type a essay for cet 6                                  :plan:
+SCHEDULED: <2017-12-18 Mon .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2017-12-16 Sat 14:24]
+:LAST_REPEAT: [2017-12-17 Sun 11:48]
 :END:
+- State "DONE"       from "TODO"       [2017-12-17 Sun 11:48]
 - State "DONE"       from "TODO"       [2017-12-16 Sat 14:24]
 - State "DONE"       from "TODO"       [2017-12-15 Fri 19:26]
 - State "DONE"       from "TODO"       [2017-12-15 Fri 10:58]
