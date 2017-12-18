@@ -8,6 +8,15 @@ Java-Web runs only with loading folder "web-root"）
 *solutions*:mainly due to add jars to project incorrectly
 * ubuntu
 *** apt update
+#+ATTR_ORG: :width 350  
 [[~/org-notes/picture/bug.jpg]]
 *solution*:check it on following link
 http://www.maybe520.net/blog/999/
+*** start ubuntu
+#+ATTR_ORG: :width 350
+[[~/org-notes/picture/crash.jpg]]
+*thinking*:I find this crash event yesterday when i start my computer.That means i can't use default linux kernel,cause
+there is already something wrong in it.
+*key commands*:sudo update-initramfs -u -k 4.10.0-43-generic
+*solution*:check it on following link
+https://askubuntu.com/questions/898449/kernel-panic-and-unable-to-boot-ubuntu-16-04-after-updating/898459
