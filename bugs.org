@@ -20,3 +20,15 @@ there is already something wrong in it.
 *key commands*:sudo update-initramfs -u -k 4.10.0-43-generic
 *solution*:check it on following link
 https://askubuntu.com/questions/898449/kernel-panic-and-unable-to-boot-ubuntu-16-04-after-updating/898459
+* mysql  
+** disable letter case sensitive and encode  
+| system      | problem               |
+|-------------+-----------------------|
+| ubuntu16.04 | tables don't exist    |
+| above       | can't display Chinese |
+*solution*:
+1. get into directory:/etc/mysql/mysql.conf.d
+2. edit file: mysqld.cnf;add "lower_case_table_names=1"and""
+like follows:
+[[~/org-notes/picture/mysql.png]]
+

@@ -126,16 +126,18 @@ this time i decide to buy old books
 CLOSED: [2017-12-14 Thu 21:01] SCHEDULED: <2017-12-14 Thu 21:00>
 
 ** TODO [#B] type a essay for cet 6                                   :plan:
-SCHEDULED: <2017-12-19 Tue .+1d>
+SCHEDULED: <2017-12-20 Wed .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2017-12-18 Mon 10:33]
+:LAST_REPEAT: [2017-12-19 Tue 15:40]
 :END:
+- State "DONE"       from "TODO"       [2017-12-19 Tue 15:40]
 - State "DONE"       from "TODO"       [2017-12-18 Mon 10:33]
 - State "DONE"       from "TODO"       [2017-12-17 Sun 11:48]
 - State "DONE"       from "TODO"       [2017-12-16 Sat 14:24]
 - State "DONE"       from "TODO"       [2017-12-15 Fri 19:26]
 - State "DONE"       from "TODO"       [2017-12-15 Fri 10:58]
 :LOGBOOK:
+CLOCK: [2017-12-19 Tue 15:12]--[2017-12-19 Tue 15:40] =>  0:28
 CLOCK: [2017-12-15 Fri 10:44]--[2017-12-15 Fri 10:58] =>  0:14
 CLOCK: [2017-12-14 Thu 21:29]--[2017-12-14 Thu 22:10] =>  0:41
 :END:
@@ -190,6 +192,11 @@ CLOCK: [2017-12-12 Tue 21:44]--[2017-12-12 Tue 22:22] => 0:38
   CLOCK: [2017-12-07 Thu 22:08]--[2017-12-07 Thu 22:50] =>  0:42
   :END:
 
+** TODO [#B] choose lesson for next ter choose lesson for next term 
+SCHEDULED: <2017-12-20 Wed 13:00>
+
+** TODO [#B] learn GridTree 
+http://maxazan.github.io/jquery-treegrid/
 * Weekly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
 #+CAPTION: Clock summary at [2017-12-16 Sat 14:46], for week 2017-W50.
