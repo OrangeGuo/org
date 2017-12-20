@@ -137,6 +137,7 @@ SCHEDULED: <2017-12-20 Wed .+1d>
 - State "DONE"       from "TODO"       [2017-12-15 Fri 19:26]
 - State "DONE"       from "TODO"       [2017-12-15 Fri 10:58]
 :LOGBOOK:
+CLOCK: [2017-12-20 Wed 18:55]--[2017-12-20 Wed 19:04] =>  0:09
 CLOCK: [2017-12-19 Tue 15:12]--[2017-12-19 Tue 15:40] =>  0:28
 CLOCK: [2017-12-15 Fri 10:44]--[2017-12-15 Fri 10:58] =>  0:14
 CLOCK: [2017-12-14 Thu 21:29]--[2017-12-14 Thu 22:10] =>  0:41
@@ -152,6 +153,22 @@ http://cspro.org/lead/leadbpm.do?__action=goto_iframe&path=CCF_KS_KSLX_LIST&djty
 ** TODO [#B]马原在线考试 MOOC                                        :exam:
 DEADLINE: <2017-12-29 Fri> SCHEDULED: <2017-12-15 Fri>
 45min,only once* life
+
+** DONE [#B] choose lesson for next ter choose lesson for next term  :study:
+CLOSED: [2017-12-20 Wed 12:46] SCHEDULED: <2017-12-20 Wed 13:00>
+
+** TODO [#B] learn GridTree 
+http://maxazan.github.io/jquery-treegrid/
+
+** TODO [#B] complete module of sensitivity analysis 
+DEADLINE: <2017-12-31 Sun> SCHEDULED: <2017-12-20 Wed>
+:LOGBOOK:
+CLOCK: [2017-12-20 Wed 20:52]--[2017-12-20 Wed 21:22] =>  0:30
+CLOCK: [2017-12-20 Wed 15:52]--[2017-12-20 Wed 18:55] =>  3:03
+:END:
+[[~/org-notes/picture/project.png]]
+* life 
+
 ** TODO [#B] watch movies                                            :life:
 - Note taken on [2017-12-15 Fri 14:09] \\
   the film i watch is <spider man: hero come back> this week.But i feel a little down.
@@ -192,11 +209,6 @@ CLOCK: [2017-12-12 Tue 21:44]--[2017-12-12 Tue 22:22] => 0:38
   CLOCK: [2017-12-07 Thu 22:08]--[2017-12-07 Thu 22:50] =>  0:42
   :END:
 
-** TODO [#B] choose lesson for next ter choose lesson for next term 
-SCHEDULED: <2017-12-20 Wed 13:00>
-
-** TODO [#B] learn GridTree 
-http://maxazan.github.io/jquery-treegrid/
 * Weekly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
 #+CAPTION: Clock summary at [2017-12-16 Sat 14:46], for week 2017-W50.

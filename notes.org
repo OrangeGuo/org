@@ -56,7 +56,7 @@ https://jingyan.baidu.com/article/cbf0e500eb95582eaa28932b.html
 ** TODO [#C] learn to write a blog                                     :goal:
 SCHEDULED: <2017-12-19 Tue>
 :LOGBOOK:
-CLOCK: [2017-12-19 Tue 22:39]
+CLOCK: [2017-12-19 Tue 22:39]--[2017-12-19 Tue 22:58] =>  0:19 
 :END:
 http://blog.csdn.net/kesarchen/article/details/50579550
 https://zilongshanren.com/blog/2015-07-19-add-org-mode-support.html

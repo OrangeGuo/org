@@ -6,6 +6,10 @@
 Java-Web runs only with loading folder "web-root"）
 **** can't find main method 
 *solutions*:mainly due to add jars to project incorrectly
+*** python version manage 
+*sudo update-alternatives --config python*
+#+ATTR_ORG: :width 350  
+[[~/org-notes/picture/python.png]]
 * ubuntu
 *** apt update
 #+ATTR_ORG: :width 350  
