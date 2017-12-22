@@ -152,3 +152,5 @@ sudo update-rc.d -f mysql remove
 **** rar a target.rar file for add file to target.rar 
 *** grub windows in ubuntu16
 [[~/org-notes/picture/grub.png]]
+** ssh 
+[[~/org-notes/picture/ssh.png]]
