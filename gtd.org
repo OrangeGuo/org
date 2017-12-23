@@ -125,11 +125,12 @@ this time i decide to buy old books
 ** DONE [#B] check mooc online 
 CLOSED: [2017-12-14 Thu 21:01] SCHEDULED: <2017-12-14 Thu 21:00>
 
-** TODO [#B] type a essay for cet 6                                   :plan:
-SCHEDULED: <2017-12-23 Sat .+1d>
+** DONE [#B] type a essay for cet 6                                   :plan:
+CLOSED: [2017-12-23 Sat 09:58] DEADLINE: <2017-12-23 Sat> SCHEDULED: <2017-12-23 Sat>
 :PROPERTIES:
-:LAST_REPEAT: [2017-12-22 Fri 17:10]
+:LAST_REPEAT: [2017-12-23 Sat 09:58]
 :END:
+- State "DONE"       from "TODO"       [2017-12-23 Sat 09:58]
 - State "DONE"       from "TODO"       [2017-12-22 Fri 17:10]
 - State "DONE"       from "TODO"       [2017-12-21 Thu 10:31]
 - State "DONE"       from "TODO"       [2017-12-20 Wed 18:58]
@@ -140,6 +141,7 @@ SCHEDULED: <2017-12-23 Sat .+1d>
 - State "DONE"       from "TODO"       [2017-12-15 Fri 19:26]
 - State "DONE"       from "TODO"       [2017-12-15 Fri 10:58]
 :LOGBOOK:
+CLOCK: [2017-12-23 Sat 09:39]--[2017-12-23 Sat 09:58] =>  0:19
 CLOCK: [2017-12-22 Fri 16:55]--[2017-12-22 Fri 17:10] =>  0:15
 CLOCK: [2017-12-21 Thu 10:12]--[2017-12-21 Thu 10:31] =>  0:19
 CLOCK: [2017-12-20 Wed 18:55]--[2017-12-20 Wed 19:04] =>  0:09
@@ -168,6 +170,8 @@ http://maxazan.github.io/jquery-treegrid/
 ** TODO [#B] complete module of sensitivity analysis 
 DEADLINE: <2017-12-31 Sun> SCHEDULED: <2017-12-20 Wed>
 :LOGBOOK:
+CLOCK: [2017-12-23 Sat 18:35]--[2017-12-23 Sat 22:26] =>  3:51
+CLOCK: [2017-12-23 Sat 10:59]--[2017-12-23 Sat 15:07] =>  4:08
 CLOCK: [2017-12-22 Fri 20:24]--[2017-12-22 Fri 22:40] =>  2:16
 CLOCK: [2017-12-21 Thu 20:52]--[2017-12-21 Thu 22:14] =>  1:22
 CLOCK: [2017-12-20 Wed 20:52]--[2017-12-20 Wed 21:22] =>  0:30
