@@ -86,12 +86,13 @@ https://zilongshanren.com/blog/2015-07-19-add-org-mode-support.html
   [[file:~/web/model.js::var%20input%20=%20document.createElement("input");]] 
   [2017-12-02 Sat 16:36]
 
-** TODO clean my notes weekly                                        :life:
-   SCHEDULED: <2017-12-22 Fri 19:30 .+1w>
+** TODO clean my notes weekly                                         :life:
+   SCHEDULED: <2018-01-08 Mon 19:30 .+2w>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-12-15 Fri 20:54]
+   :LAST_REPEAT: [2017-12-25 Mon 10:25]
    :END:
   
+   - State "DONE"       from "TODO"       [2017-12-25 Mon 10:25]
    - State "DONE"       from "TODO"       [2017-12-15 Fri 20:54]
    - State "DONE"       from "TODO"       [2017-12-08 Fri 16:18]
   [2017-12-08 Fri 16:03]

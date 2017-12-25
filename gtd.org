@@ -173,6 +173,8 @@ http://maxazan.github.io/jquery-treegrid/
 ** TODO [#B] complete module of sensitivity analysis 
 DEADLINE: <2017-12-31 Sun> SCHEDULED: <2017-12-20 Wed>
 :LOGBOOK:
+CLOCK: [2017-12-25 Mon 13:00]--[2017-12-25 Mon 15:33] =>  2:33
+CLOCK: [2017-12-25 Mon 10:33]--[2017-12-25 Mon 11:32] =>  0:59
 CLOCK: [2017-12-24 Sun 10:59]--[2017-12-24 Sun 12:21] =>  1:22
 CLOCK: [2017-12-23 Sat 18:35]--[2017-12-23 Sat 22:26] =>  3:51
 CLOCK: [2017-12-23 Sat 10:59]--[2017-12-23 Sat 15:07] =>  4:08
@@ -227,31 +229,23 @@ CLOCK: [2017-12-12 Tue 21:44]--[2017-12-12 Tue 22:22] => 0:38
 
 ** TODO [#B] watch TV series 
 :LOGBOOK:
+CLOCK: [2017-12-25 Mon 11:47]--[2017-12-25 Mon 12:51] =>  1:04
 CLOCK: [2017-12-24 Sun 12:22]--[2017-12-24 Sun 14:02] =>  1:40
 :END:
 joyful 
 
 * Weekly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2017-12-24 Sun 09:45], for week 2017-W51.
-| File       | Headline                                    | Time    |       |
-|------------+---------------------------------------------+---------+-------|
-|            | ALL *Total time*                            | *21:08* |       |
-|------------+---------------------------------------------+---------+-------|
-| career.org | *File time*                                 | *1:46*  |       |
-|            | Learn Emacs                                 | 1:46    |       |
-|            | \_  learn elisp                             |         |  1:46 |
-|------------+---------------------------------------------+---------+-------|
-| gtd.org    | *File time*                                 | *19:03* |       |
-|            | study                                       | 16:40   |       |
-|            | \_  type a essay for cet 6                  |         |  1:30 |
-|            | \_  complete module of sensitivity analysis |         | 15:10 |
-|            | life                                        | 2:23    |       |
-|            | \_  watch movies                            |         |  2:23 |
-|------------+---------------------------------------------+---------+-------|
-| notes.org  | *File time*                                 | *0:19*  |       |
-|            | Quick notes                                 | 0:19    |       |
-|            | \_  learn to write a blog                   |         |  0:19 |
+#+CAPTION: Clock summary at [2017-12-25 Mon 21:37], for week 2017-W52.
+| File    | Headline                                    | Time   |      |
+|---------+---------------------------------------------+--------+------|
+|         | ALL *Total time*                            | *4:36* |      |
+|---------+---------------------------------------------+--------+------|
+| gtd.org | *File time*                                 | *4:36* |      |
+|         | study                                       | 3:32   |      |
+|         | \_  complete module of sensitivity analysis |        | 3:32 |
+|         | life                                        | 1:04   |      |
+|         | \_  watch TV series                         |        | 1:04 |
 #+END:
 #+BEGIN_SRC emacs-lisp :results value
 (setq week-range (org-clock-special-range 'thisweek nil t))
@@ -259,17 +253,17 @@ joyful
 #+END_SRC
 * Monthly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thismonth :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2017-12-24 Sun 09:46], for December 2017.
+#+CAPTION: Clock summary at [2017-12-25 Mon 21:37], for December 2017.
 | File       | Headline                                     | Time       |       |
 |------------+----------------------------------------------+------------+-------|
-|            | ALL *Total time*                             | *2d 10:44* |       |
+|            | ALL *Total time*                             | *2d 20:25* |       |
 |------------+----------------------------------------------+------------+-------|
-| career.org | *File time*                                  | *9:06*     |       |
-|            | Learn Emacs                                  | 9:06       |       |
-|            | \_  learn elisp                              |            |  9:06 |
+| career.org | *File time*                                  | *10:16*    |       |
+|            | Learn Emacs                                  | 10:16      |       |
+|            | \_  learn elisp                              |            | 10:16 |
 |------------+----------------------------------------------+------------+-------|
-| gtd.org    | *File time*                                  | *2d 1:19*  |       |
-|            | study                                        | 1d 9:06    |       |
+| gtd.org    | *File time*                                  | *2d 9:50*  |       |
+|            | study                                        | 1d 14:53   |       |
 |            | \_  learn emacs by watcing videos            |            |  1:51 |
 |            | \_  review book for forthcoming Software...  |            |  1:49 |
 |            | \_  finish software test experiment document |            |  1:15 |
@@ -277,10 +271,12 @@ joyful
 |            | \_  learn emacs tutorials                    |            |  0:40 |
 |            | \_  type a essay for cet 6                   |            |  2:25 |
 |            | \_  CCF CSP exam                             |            |  1:49 |
-|            | \_  complete module of sensitivity analysis  |            | 15:10 |
-|            | life                                         | 16:13      |       |
+|            | \_  [#B]马原在线考试 MOOC                    |            |  0:53 |
+|            | \_  complete module of sensitivity analysis  |            | 20:04 |
+|            | life                                         | 18:57      |       |
 |            | \_  watch movies                             |            |  6:39 |
 |            | \_  watch teleplay by Huge                   |            |  9:34 |
+|            | \_  watch TV series                          |            |  2:44 |
 |------------+----------------------------------------------+------------+-------|
 | notes.org  | *File time*                                  | *0:19*     |       |
 |            | Quick notes                                  | 0:19       |       |
