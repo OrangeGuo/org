@@ -173,6 +173,8 @@ http://maxazan.github.io/jquery-treegrid/
 ** TODO [#B] complete module of sensitivity analysis 
 DEADLINE: <2017-12-31 Sun> SCHEDULED: <2017-12-20 Wed>
 :LOGBOOK:
+CLOCK: [2017-12-26 Tue 18:00]--[2017-12-26 Tue 21:40] =>  3:40
+CLOCK: [2017-12-26 Tue 12:31]--[2017-12-26 Tue 15:03] =>  2:32
 CLOCK: [2017-12-25 Mon 13:00]--[2017-12-25 Mon 15:33] =>  2:33
 CLOCK: [2017-12-25 Mon 10:33]--[2017-12-25 Mon 11:32] =>  0:59
 CLOCK: [2017-12-24 Sun 10:59]--[2017-12-24 Sun 12:21] =>  1:22
