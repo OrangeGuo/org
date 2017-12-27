@@ -173,6 +173,8 @@ http://maxazan.github.io/jquery-treegrid/
 ** TODO [#B] complete module of sensitivity analysis 
 DEADLINE: <2017-12-31 Sun> SCHEDULED: <2017-12-20 Wed>
 :LOGBOOK:
+CLOCK: [2017-12-27 Wed 18:59]--[2017-12-27 Wed 21:10] =>  2:11
+CLOCK: [2017-12-27 Wed 16:59]--[2017-12-27 Wed 17:27] =>  0:28
 CLOCK: [2017-12-26 Tue 18:00]--[2017-12-26 Tue 21:40] =>  3:40
 CLOCK: [2017-12-26 Tue 12:31]--[2017-12-26 Tue 15:03] =>  2:32
 CLOCK: [2017-12-25 Mon 13:00]--[2017-12-25 Mon 15:33] =>  2:33
@@ -231,23 +233,30 @@ CLOCK: [2017-12-12 Tue 21:44]--[2017-12-12 Tue 22:22] => 0:38
 
 ** TODO [#B] watch TV series 
 :LOGBOOK:
+CLOCK: [2017-12-27 Wed 17:50]--[2017-12-27 Wed 18:39] =>  0:49
 CLOCK: [2017-12-25 Mon 11:47]--[2017-12-25 Mon 12:51] =>  1:04
 CLOCK: [2017-12-24 Sun 12:22]--[2017-12-24 Sun 14:02] =>  1:40
 :END:
 joyful 
 
+** TODO [#B]master spring  
+
 * Weekly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2017-12-25 Mon 21:37], for week 2017-W52.
-| File    | Headline                                    | Time   |      |
-|---------+---------------------------------------------+--------+------|
-|         | ALL *Total time*                            | *4:36* |      |
-|---------+---------------------------------------------+--------+------|
-| gtd.org | *File time*                                 | *4:36* |      |
-|         | study                                       | 3:32   |      |
-|         | \_  complete module of sensitivity analysis |        | 3:32 |
-|         | life                                        | 1:04   |      |
-|         | \_  watch TV series                         |        | 1:04 |
+#+CAPTION: Clock summary at [2017-12-27 Wed 21:11], for week 2017-W52.
+| File       | Headline                                    | Time    |       |
+|------------+---------------------------------------------+---------+-------|
+|            | ALL *Total time*                            | *14:26* |       |
+|------------+---------------------------------------------+---------+-------|
+| career.org | *File time*                                 | *0:10*  |       |
+|            | Learn Emacs                                 | 0:10    |       |
+|            | \_  learn elisp                             |         |  0:10 |
+|------------+---------------------------------------------+---------+-------|
+| gtd.org    | *File time*                                 | *14:16* |       |
+|            | study                                       | 12:23   |       |
+|            | \_  complete module of sensitivity analysis |         | 12:23 |
+|            | life                                        | 1:53    |       |
+|            | \_  watch TV series                         |         |  1:53 |
 #+END:
 #+BEGIN_SRC emacs-lisp :results value
 (setq week-range (org-clock-special-range 'thisweek nil t))
@@ -255,34 +264,34 @@ joyful
 #+END_SRC
 * Monthly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thismonth :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2017-12-25 Mon 21:37], for December 2017.
-| File       | Headline                                     | Time       |       |
-|------------+----------------------------------------------+------------+-------|
-|            | ALL *Total time*                             | *2d 20:25* |       |
-|------------+----------------------------------------------+------------+-------|
-| career.org | *File time*                                  | *10:16*    |       |
-|            | Learn Emacs                                  | 10:16      |       |
-|            | \_  learn elisp                              |            | 10:16 |
-|------------+----------------------------------------------+------------+-------|
-| gtd.org    | *File time*                                  | *2d 9:50*  |       |
-|            | study                                        | 1d 14:53   |       |
-|            | \_  learn emacs by watcing videos            |            |  1:51 |
-|            | \_  review book for forthcoming Software...  |            |  1:49 |
-|            | \_  finish software test experiment document |            |  1:15 |
-|            | \_  complete model constrution               |            |  8:07 |
-|            | \_  learn emacs tutorials                    |            |  0:40 |
-|            | \_  type a essay for cet 6                   |            |  2:25 |
-|            | \_  CCF CSP exam                             |            |  1:49 |
-|            | \_  [#B]马原在线考试 MOOC                    |            |  0:53 |
-|            | \_  complete module of sensitivity analysis  |            | 20:04 |
-|            | life                                         | 18:57      |       |
-|            | \_  watch movies                             |            |  6:39 |
-|            | \_  watch teleplay by Huge                   |            |  9:34 |
-|            | \_  watch TV series                          |            |  2:44 |
-|------------+----------------------------------------------+------------+-------|
-| notes.org  | *File time*                                  | *0:19*     |       |
-|            | Quick notes                                  | 0:19       |       |
-|            | \_  learn to write a blog                    |            |  0:19 |
+#+CAPTION: Clock summary at [2017-12-27 Wed 21:11], for December 2017.
+| File       | Headline                                     | Time       |         |
+|------------+----------------------------------------------+------------+---------|
+|            | ALL *Total time*                             | *3d 6:15*  |         |
+|------------+----------------------------------------------+------------+---------|
+| career.org | *File time*                                  | *10:26*    |         |
+|            | Learn Emacs                                  | 10:26      |         |
+|            | \_  learn elisp                              |            |   10:26 |
+|------------+----------------------------------------------+------------+---------|
+| gtd.org    | *File time*                                  | *2d 19:30* |         |
+|            | study                                        | 1d 23:44   |         |
+|            | \_  learn emacs by watcing videos            |            |    1:51 |
+|            | \_  review book for forthcoming Software...  |            |    1:49 |
+|            | \_  finish software test experiment document |            |    1:15 |
+|            | \_  complete model constrution               |            |    8:07 |
+|            | \_  learn emacs tutorials                    |            |    0:40 |
+|            | \_  type a essay for cet 6                   |            |    2:25 |
+|            | \_  CCF CSP exam                             |            |    1:49 |
+|            | \_  [#B]马原在线考试 MOOC                    |            |    0:53 |
+|            | \_  complete module of sensitivity analysis  |            | 1d 4:55 |
+|            | life                                         | 19:46      |         |
+|            | \_  watch movies                             |            |    6:39 |
+|            | \_  watch teleplay by Huge                   |            |    9:34 |
+|            | \_  watch TV series                          |            |    3:33 |
+|------------+----------------------------------------------+------------+---------|
+| notes.org  | *File time*                                  | *0:19*     |         |
+|            | Quick notes                                  | 0:19       |         |
+|            | \_  learn to write a blog                    |            |    0:19 |
 #+END:
 #+BEGIN_SRC emacs-lisp :results value
 (setq week-range (org-clock-special-range 'thisweek nil t))
