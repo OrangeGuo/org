@@ -139,5 +139,12 @@ introduce some functions about buffer
   (other-buffer (current-buffer) t)
 #+END_SRC
 **** chapter five
+**** chapter seven
+***** car and cdr
+#+BEGIN_SRC lisp
+  (car '("tiger" "lion" "elephant"))
+  ;; get first element of list
+  (cdr '("tiger" "lion" "elephant"))
+  ;; get others except first element
+#+END_SRC
 
- 
