@@ -170,8 +170,8 @@ CLOSED: [2017-12-20 Wed 12:46] SCHEDULED: <2017-12-20 Wed 13:00>
 ** [#B] learn GridTree 
 http://maxazan.github.io/jquery-treegrid/
 
-** TODO [#B] complete module of sensitivity analysis 
-DEADLINE: <2017-12-31 Sun> SCHEDULED: <2017-12-20 Wed>
+** DONE [#B] complete module of sensitivity analysis 
+CLOSED: [2017-12-30 Sat 20:43] DEADLINE: <2017-12-31 Sun> SCHEDULED: <2017-12-20 Wed>
 :LOGBOOK:
 CLOCK: [2017-12-27 Wed 18:59]--[2017-12-27 Wed 21:10] =>  2:11
 CLOCK: [2017-12-27 Wed 16:59]--[2017-12-27 Wed 17:27] =>  0:28
@@ -188,6 +188,9 @@ CLOCK: [2017-12-20 Wed 20:52]--[2017-12-20 Wed 21:22] =>  0:30
 CLOCK: [2017-12-20 Wed 15:52]--[2017-12-20 Wed 18:55] =>  3:03
 :END:
 [[~/org-notes/picture/project.png]]
+
+** TODO [#B] work on software test experiment document 
+
 * life 
 
 ** TODO [#B] watch movies                                            :life:
@@ -243,14 +246,14 @@ joyful
 
 * Weekly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2017-12-27 Wed 21:11], for week 2017-W52.
+#+CAPTION: Clock summary at [2017-12-30 Sat 21:15], for week 2017-W52.
 | File       | Headline                                    | Time    |       |
 |------------+---------------------------------------------+---------+-------|
-|            | ALL *Total time*                            | *14:26* |       |
+|            | ALL *Total time*                            | *14:45* |       |
 |------------+---------------------------------------------+---------+-------|
-| career.org | *File time*                                 | *0:10*  |       |
-|            | Learn Emacs                                 | 0:10    |       |
-|            | \_  learn elisp                             |         |  0:10 |
+| career.org | *File time*                                 | *0:29*  |       |
+|            | Learn Emacs                                 | 0:29    |       |
+|            | \_  learn elisp                             |         |  0:29 |
 |------------+---------------------------------------------+---------+-------|
 | gtd.org    | *File time*                                 | *14:16* |       |
 |            | study                                       | 12:23   |       |
@@ -264,14 +267,14 @@ joyful
 #+END_SRC
 * Monthly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thismonth :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2017-12-27 Wed 21:11], for December 2017.
+#+CAPTION: Clock summary at [2017-12-30 Sat 21:18], for December 2017.
 | File       | Headline                                     | Time       |         |
 |------------+----------------------------------------------+------------+---------|
-|            | ALL *Total time*                             | *3d 6:15*  |         |
+|            | ALL *Total time*                             | *3d 6:34*  |         |
 |------------+----------------------------------------------+------------+---------|
-| career.org | *File time*                                  | *10:26*    |         |
-|            | Learn Emacs                                  | 10:26      |         |
-|            | \_  learn elisp                              |            |   10:26 |
+| career.org | *File time*                                  | *10:45*    |         |
+|            | Learn Emacs                                  | 10:45      |         |
+|            | \_  learn elisp                              |            |   10:45 |
 |------------+----------------------------------------------+------------+---------|
 | gtd.org    | *File time*                                  | *2d 19:30* |         |
 |            | study                                        | 1d 23:44   |         |
