@@ -191,6 +191,13 @@ CLOCK: [2017-12-20 Wed 15:52]--[2017-12-20 Wed 18:55] =>  3:03
 
 ** TODO [#B] work on software test experiment document 
 
+** TODO [#B] take notes for software exam  
+SCHEDULED: <2017-12-31 Sun>
+:LOGBOOK:
+CLOCK: [2017-12-31 Sun 16:37]--[2017-12-31 Sun 17:23] =>  0:46
+CLOCK: [2017-12-31 Sun 13:41]--[2017-12-31 Sun 14:10] =>  0:29
+:END:
+
 * life 
 
 ** TODO [#B] watch movies                                            :life:
