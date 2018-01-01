@@ -54,7 +54,6 @@ if: Symbol’s function definition is void: org-projectile:capture-for-current-p
 https://jingyan.baidu.com/article/cbf0e500eb95582eaa28932b.html
 
 ** TODO [#C] learn to write a blog                                     :goal:
-SCHEDULED: <2017-12-19 Tue>
 :LOGBOOK:
 CLOCK: [2017-12-19 Tue 22:39]--[2017-12-19 Tue 22:58] =>  0:19 
 :END:
