@@ -261,6 +261,9 @@ joyful
 
 ** TODO [#B]master spring  
 
+** TODO [#B] improve my config for blog  
+SCHEDULED: <2018-01-03 Wed>
+
 * Weekly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
 #+CAPTION: Clock summary at [2018-01-01 Mon 11:31], for week 2018-W01.
