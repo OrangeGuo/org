@@ -195,8 +195,8 @@ CLOCK: [2017-12-20 Wed 15:52]--[2017-12-20 Wed 18:55] =>  3:03
 CLOCK: [2018-01-01 Mon 19:03]--[2018-01-01 Mon 22:58] =>  3:55
 :END:
 
-** TODO [#B] take notes for software exam  
-DEADLINE: <2018-01-03 Wed> SCHEDULED: <2017-12-31 Sun>
+** DONE [#B] take notes for software exam  
+CLOSED: [2018-01-03 Wed 21:06] DEADLINE: <2018-01-03 Wed> SCHEDULED: <2017-12-31 Sun>
 :LOGBOOK:
 CLOCK: [2018-01-01 Mon 12:37]--[2018-01-01 Mon 13:16] =>  0:39
 CLOCK: [2017-12-31 Sun 21:10]--[2017-12-31 Sun 21:14] =>  0:04
@@ -247,10 +247,13 @@ CLOCK: [2017-12-12 Tue 21:44]--[2017-12-12 Tue 22:22] => 0:38
   CLOCK: [2017-12-07 Thu 22:08]--[2017-12-07 Thu 22:50] =>  0:42
   :END:
 
-** TODO [#B] watch TV series 
+** TODO [#B] watch TV series                                          :life:
+- Note taken on [2018-01-03 Wed 13:16] \\
+  15
 - Note taken on [2018-01-01 Mon 14:45] \\
   琅琊榜 风起长林 14集
 :LOGBOOK:
+CLOCK: [2018-01-03 Wed 12:10]--[2018-01-03 Wed 13:15] =>  1:05
 CLOCK: [2018-01-01 Mon 13:24]--[2018-01-01 Mon 14:13] =>  0:49
 CLOCK: [2017-12-31 Sun 19:50]--[2017-12-31 Sun 21:01] =>  1:11
 CLOCK: [2017-12-27 Wed 17:50]--[2017-12-27 Wed 19:01] =>  1:11
