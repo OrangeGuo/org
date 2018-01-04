@@ -264,15 +264,27 @@ joyful
 
 ** TODO [#B]master spring  
 
-** TODO [#B] improve my config for blog  
-SCHEDULED: <2018-01-03 Wed>
+** DONE [#B] improve my config for blog  
+CLOSED: [2018-01-04 Thu 22:41] SCHEDULED: <2018-01-03 Wed>
 
 * Weekly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2018-01-01 Mon 11:31], for week 2018-W01.
-| File | Headline         | Time   |
-|------+------------------+--------|
-|      | ALL *Total time* | *0:00* |
+#+CAPTION: Clock summary at [2018-01-04 Thu 13:58], for week 2018-W01.
+| File       | Headline                                    | Time   |      |
+|------------+---------------------------------------------+--------+------|
+|            | ALL *Total time*                            | *7:03* |      |
+|------------+---------------------------------------------+--------+------|
+| career.org | *File time*                                 | *0:23* |      |
+|            | Learn Emacs                                 | 0:23   |      |
+|            | \_  learn elisp                             |        | 0:23 |
+|------------+---------------------------------------------+--------+------|
+| gtd.org    | *File time*                                 | *6:40* |      |
+|            | study                                       | 4:46   |      |
+|            | \_  complete module of sensitivity analysis |        | 0:12 |
+|            | \_  work on software test experiment...     |        | 3:55 |
+|            | \_  take notes for software exam            |        | 0:39 |
+|            | life                                        | 1:54   |      |
+|            | \_  watch TV series                         |        | 1:54 |
 #+END:
 #+BEGIN_SRC emacs-lisp :results value
 (setq week-range (org-clock-special-range 'thisweek nil t))
@@ -280,10 +292,22 @@ SCHEDULED: <2018-01-03 Wed>
 #+END_SRC
 * Monthly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thismonth :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2018-01-01 Mon 11:31], for January 2018.
-| File | Headline         | Time   |
-|------+------------------+--------|
-|      | ALL *Total time* | *0:00* |
+#+CAPTION: Clock summary at [2018-01-04 Thu 13:58], for January 2018.
+| File       | Headline                                    | Time   |      |
+|------------+---------------------------------------------+--------+------|
+|            | ALL *Total time*                            | *7:03* |      |
+|------------+---------------------------------------------+--------+------|
+| career.org | *File time*                                 | *0:23* |      |
+|            | Learn Emacs                                 | 0:23   |      |
+|            | \_  learn elisp                             |        | 0:23 |
+|------------+---------------------------------------------+--------+------|
+| gtd.org    | *File time*                                 | *6:40* |      |
+|            | study                                       | 4:46   |      |
+|            | \_  complete module of sensitivity analysis |        | 0:12 |
+|            | \_  work on software test experiment...     |        | 3:55 |
+|            | \_  take notes for software exam            |        | 0:39 |
+|            | life                                        | 1:54   |      |
+|            | \_  watch TV series                         |        | 1:54 |
 #+END:
 #+BEGIN_SRC emacs-lisp :results value
 (setq week-range (org-clock-special-range 'thisweek nil t))
