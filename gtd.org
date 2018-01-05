@@ -192,6 +192,8 @@ CLOCK: [2017-12-20 Wed 15:52]--[2017-12-20 Wed 18:55] =>  3:03
 
 ** TODO [#B] work on software test experiment document 
 :LOGBOOK:
+CLOCK: [2018-01-05 Fri 12:01]--[2018-01-05 Fri 12:58] =>  0:57
+CLOCK: [2018-01-05 Fri 11:24]--[2018-01-05 Fri 11:42] =>  0:18
 CLOCK: [2018-01-01 Mon 19:03]--[2018-01-01 Mon 22:58] =>  3:55
 :END:
 
@@ -202,6 +204,14 @@ CLOCK: [2018-01-01 Mon 12:37]--[2018-01-01 Mon 13:16] =>  0:39
 CLOCK: [2017-12-31 Sun 21:10]--[2017-12-31 Sun 21:14] =>  0:04
 CLOCK: [2017-12-31 Sun 16:37]--[2017-12-31 Sun 17:23] =>  0:46
 CLOCK: [2017-12-31 Sun 13:41]--[2017-12-31 Sun 14:10] =>  0:29
+:END:
+
+** TODO [#B]merge project finally 
+SCHEDULED: <2018-01-05 Fri>
+:LOGBOOK:
+CLOCK: [2018-01-05 Fri 20:33]--[2018-01-05 Fri 21:43] =>  1:10
+CLOCK: [2018-01-05 Fri 17:50]--[2018-01-05 Fri 18:46] =>  0:56
+CLOCK: [2018-01-05 Fri 14:54]--[2018-01-05 Fri 17:39] =>  2:45
 :END:
 
 * life 
@@ -269,22 +279,23 @@ CLOSED: [2018-01-04 Thu 22:41] SCHEDULED: <2018-01-03 Wed>
 
 * Weekly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2018-01-04 Thu 13:58], for week 2018-W01.
-| File       | Headline                                    | Time   |      |
-|------------+---------------------------------------------+--------+------|
-|            | ALL *Total time*                            | *7:03* |      |
-|------------+---------------------------------------------+--------+------|
-| career.org | *File time*                                 | *0:23* |      |
-|            | Learn Emacs                                 | 0:23   |      |
-|            | \_  learn elisp                             |        | 0:23 |
-|------------+---------------------------------------------+--------+------|
-| gtd.org    | *File time*                                 | *6:40* |      |
-|            | study                                       | 4:46   |      |
-|            | \_  complete module of sensitivity analysis |        | 0:12 |
-|            | \_  work on software test experiment...     |        | 3:55 |
-|            | \_  take notes for software exam            |        | 0:39 |
-|            | life                                        | 1:54   |      |
-|            | \_  watch TV series                         |        | 1:54 |
+#+CAPTION: Clock summary at [2018-01-05 Fri 18:55], for week 2018-W01.
+| File       | Headline                                    | Time    |      |
+|------------+---------------------------------------------+---------+------|
+|            | ALL *Total time*                            | *11:59* |      |
+|------------+---------------------------------------------+---------+------|
+| career.org | *File time*                                 | *0:23*  |      |
+|            | Learn Emacs                                 | 0:23    |      |
+|            | \_  learn elisp                             |         | 0:23 |
+|------------+---------------------------------------------+---------+------|
+| gtd.org    | *File time*                                 | *11:36* |      |
+|            | study                                       | 9:42    |      |
+|            | \_  complete module of sensitivity analysis |         | 0:12 |
+|            | \_  work on software test experiment...     |         | 5:10 |
+|            | \_  take notes for software exam            |         | 0:39 |
+|            | \_  [#B]merge project finally               |         | 3:41 |
+|            | life                                        | 1:54    |      |
+|            | \_  watch TV series                         |         | 1:54 |
 #+END:
 #+BEGIN_SRC emacs-lisp :results value
 (setq week-range (org-clock-special-range 'thisweek nil t))
@@ -292,22 +303,23 @@ CLOSED: [2018-01-04 Thu 22:41] SCHEDULED: <2018-01-03 Wed>
 #+END_SRC
 * Monthly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thismonth :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2018-01-04 Thu 13:58], for January 2018.
-| File       | Headline                                    | Time   |      |
-|------------+---------------------------------------------+--------+------|
-|            | ALL *Total time*                            | *7:03* |      |
-|------------+---------------------------------------------+--------+------|
-| career.org | *File time*                                 | *0:23* |      |
-|            | Learn Emacs                                 | 0:23   |      |
-|            | \_  learn elisp                             |        | 0:23 |
-|------------+---------------------------------------------+--------+------|
-| gtd.org    | *File time*                                 | *6:40* |      |
-|            | study                                       | 4:46   |      |
-|            | \_  complete module of sensitivity analysis |        | 0:12 |
-|            | \_  work on software test experiment...     |        | 3:55 |
-|            | \_  take notes for software exam            |        | 0:39 |
-|            | life                                        | 1:54   |      |
-|            | \_  watch TV series                         |        | 1:54 |
+#+CAPTION: Clock summary at [2018-01-05 Fri 18:55], for January 2018.
+| File       | Headline                                    | Time    |      |
+|------------+---------------------------------------------+---------+------|
+|            | ALL *Total time*                            | *11:59* |      |
+|------------+---------------------------------------------+---------+------|
+| career.org | *File time*                                 | *0:23*  |      |
+|            | Learn Emacs                                 | 0:23    |      |
+|            | \_  learn elisp                             |         | 0:23 |
+|------------+---------------------------------------------+---------+------|
+| gtd.org    | *File time*                                 | *11:36* |      |
+|            | study                                       | 9:42    |      |
+|            | \_  complete module of sensitivity analysis |         | 0:12 |
+|            | \_  work on software test experiment...     |         | 5:10 |
+|            | \_  take notes for software exam            |         | 0:39 |
+|            | \_  [#B]merge project finally               |         | 3:41 |
+|            | life                                        | 1:54    |      |
+|            | \_  watch TV series                         |         | 1:54 |
 #+END:
 #+BEGIN_SRC emacs-lisp :results value
 (setq week-range (org-clock-special-range 'thisweek nil t))
