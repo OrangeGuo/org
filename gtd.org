@@ -192,6 +192,7 @@ CLOCK: [2017-12-20 Wed 15:52]--[2017-12-20 Wed 18:55] =>  3:03
 
 ** TODO [#B] work on software test experiment document 
 :LOGBOOK:
+CLOCK: [2018-01-06 Sat 12:47]--[2018-01-06 Sat 15:22] =>  2:35
 CLOCK: [2018-01-05 Fri 12:01]--[2018-01-05 Fri 12:58] =>  0:57
 CLOCK: [2018-01-05 Fri 11:24]--[2018-01-05 Fri 11:42] =>  0:18
 CLOCK: [2018-01-01 Mon 19:03]--[2018-01-01 Mon 22:58] =>  3:55
@@ -206,12 +207,17 @@ CLOCK: [2017-12-31 Sun 16:37]--[2017-12-31 Sun 17:23] =>  0:46
 CLOCK: [2017-12-31 Sun 13:41]--[2017-12-31 Sun 14:10] =>  0:29
 :END:
 
-** TODO [#B]merge project finally 
-SCHEDULED: <2018-01-05 Fri>
+** DONE [#B]merge project finally 
+CLOSED: [2018-01-06 Sat 12:47] SCHEDULED: <2018-01-05 Fri>
 :LOGBOOK:
 CLOCK: [2018-01-05 Fri 20:33]--[2018-01-05 Fri 21:43] =>  1:10
 CLOCK: [2018-01-05 Fri 17:50]--[2018-01-05 Fri 18:46] =>  0:56
 CLOCK: [2018-01-05 Fri 14:54]--[2018-01-05 Fri 17:39] =>  2:45
+:END:
+
+** TODO [#B] work on lesson project document 
+:LOGBOOK:
+CLOCK: [2018-01-06 Sat 18:49]--[2018-01-06 Sat 23:35] =>  4:46
 :END:
 
 * life 
