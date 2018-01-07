@@ -90,7 +90,8 @@ CLOSED: [2017-12-13 Wed 11:13]
    CLOCK: [2017-12-05 Tue 13:41]--[2017-12-05 Tue 14:06] =>  0:25
    :END:
 
-** TODO [#B] install java develop toolkit                              :temp:
+** DONE [#B] install java develop toolkit                             :temp:
+CLOSED: [2018-01-07 Sun 18:22]
 
 ** DONE [#B] complete model constrution                              :work:
    CLOSED: [2017-12-16 Sat 14:25] SCHEDULED: <2017-12-02 Sat> DEADLINE: <2017-12-15 Fri>
@@ -190,7 +191,7 @@ CLOCK: [2017-12-20 Wed 15:52]--[2017-12-20 Wed 18:55] =>  3:03
 :END:
 [[~/org-notes/picture/project.png]]
 
-** TODO [#B] work on software test experiment document 
+** TODO [#B] work on software test experiment document               :study:
 :LOGBOOK:
 CLOCK: [2018-01-06 Sat 12:47]--[2018-01-06 Sat 15:22] =>  2:35
 CLOCK: [2018-01-05 Fri 12:01]--[2018-01-05 Fri 12:58] =>  0:57
@@ -215,9 +216,20 @@ CLOCK: [2018-01-05 Fri 17:50]--[2018-01-05 Fri 18:46] =>  0:56
 CLOCK: [2018-01-05 Fri 14:54]--[2018-01-05 Fri 17:39] =>  2:45
 :END:
 
-** TODO [#B] work on lesson project document 
+** TODO [#B] work on lesson project document                         :study:
 :LOGBOOK:
 CLOCK: [2018-01-06 Sat 18:49]--[2018-01-06 Sat 23:35] =>  4:46
+:END:
+
+** TODO [#B] compilation principle lesson design                      :task:
+:LOGBOOK:
+CLOCK: [2018-01-07 Sun 19:02]--[2018-01-07 Sun 19:54] =>  0:52
+:END:
+
+** TODO [#B] review compilation principle exam                        :exam:
+DEADLINE: <2018-01-16 Tue> SCHEDULED: <2018-01-07 Sun>
+:LOGBOOK:
+CLOCK: [2018-01-07 Sun 19:59]--[2018-01-07 Sun 22:32] =>  2:33
 :END:
 
 * life 
@@ -278,28 +290,29 @@ CLOCK: [2017-12-24 Sun 12:22]--[2017-12-24 Sun 14:02] =>  1:40
 :END:
 joyful 
 
-** TODO [#B]master spring  
+** TODO [#B]master spring                                            :study:
 
 ** DONE [#B] improve my config for blog  
 CLOSED: [2018-01-04 Thu 22:41] SCHEDULED: <2018-01-03 Wed>
 
 * Weekly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2018-01-05 Fri 18:55], for week 2018-W01.
+#+CAPTION: Clock summary at [2018-01-07 Sun 18:22], for week 2018-W01.
 | File       | Headline                                    | Time    |      |
 |------------+---------------------------------------------+---------+------|
-|            | ALL *Total time*                            | *11:59* |      |
+|            | ALL *Total time*                            | *20:30* |      |
 |------------+---------------------------------------------+---------+------|
 | career.org | *File time*                                 | *0:23*  |      |
 |            | Learn Emacs                                 | 0:23    |      |
 |            | \_  learn elisp                             |         | 0:23 |
 |------------+---------------------------------------------+---------+------|
-| gtd.org    | *File time*                                 | *11:36* |      |
-|            | study                                       | 9:42    |      |
+| gtd.org    | *File time*                                 | *20:07* |      |
+|            | study                                       | 18:13   |      |
 |            | \_  complete module of sensitivity analysis |         | 0:12 |
-|            | \_  work on software test experiment...     |         | 5:10 |
+|            | \_  work on software test experiment...     |         | 7:45 |
 |            | \_  take notes for software exam            |         | 0:39 |
-|            | \_  [#B]merge project finally               |         | 3:41 |
+|            | \_  [#B]merge project finally               |         | 4:51 |
+|            | \_  work on lesson project document         |         | 4:46 |
 |            | life                                        | 1:54    |      |
 |            | \_  watch TV series                         |         | 1:54 |
 #+END:
@@ -309,21 +322,22 @@ CLOSED: [2018-01-04 Thu 22:41] SCHEDULED: <2018-01-03 Wed>
 #+END_SRC
 * Monthly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thismonth :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2018-01-05 Fri 18:55], for January 2018.
+#+CAPTION: Clock summary at [2018-01-07 Sun 18:22], for January 2018.
 | File       | Headline                                    | Time    |      |
 |------------+---------------------------------------------+---------+------|
-|            | ALL *Total time*                            | *11:59* |      |
+|            | ALL *Total time*                            | *20:30* |      |
 |------------+---------------------------------------------+---------+------|
 | career.org | *File time*                                 | *0:23*  |      |
 |            | Learn Emacs                                 | 0:23    |      |
 |            | \_  learn elisp                             |         | 0:23 |
 |------------+---------------------------------------------+---------+------|
-| gtd.org    | *File time*                                 | *11:36* |      |
-|            | study                                       | 9:42    |      |
+| gtd.org    | *File time*                                 | *20:07* |      |
+|            | study                                       | 18:13   |      |
 |            | \_  complete module of sensitivity analysis |         | 0:12 |
-|            | \_  work on software test experiment...     |         | 5:10 |
+|            | \_  work on software test experiment...     |         | 7:45 |
 |            | \_  take notes for software exam            |         | 0:39 |
-|            | \_  [#B]merge project finally               |         | 3:41 |
+|            | \_  [#B]merge project finally               |         | 4:51 |
+|            | \_  work on lesson project document         |         | 4:46 |
 |            | life                                        | 1:54    |      |
 |            | \_  watch TV series                         |         | 1:54 |
 #+END:

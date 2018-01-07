@@ -34,7 +34,7 @@ date: 2017.10 get used to editing with vim or emacs
 - State "DONE"       from "TODO"       [2017-12-26 Tue 22:17]
 - State "DONE"       from "TODO"       [2017-12-24 Sun 20:58]
 [[info:eintr#Complete%20zap-to-char][info:eintr#Complete zap-to-char]]
-   SCHEDULED: <2017-12-30 Sat 20:45 .+2d>
+   SCHEDULED: <2018-01-18 Thu 20:45 .+2d>
    :PROPERTIES:
    :LAST_REPEAT: [2017-12-22 Fri 14:46]
    :END:
