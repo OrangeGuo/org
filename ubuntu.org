@@ -1,5 +1,5 @@
 #+TITLE: linux daily 
-* ubuntu backups in case 
+* ubuntu tips 
 ** nice applications
 1. plank:bottom bar
 2. oh my zsh:beautiful shell
@@ -41,7 +41,7 @@ sudo poff dsl-provider(unconnected)
 ** findings 
 **** change logo left of top
 /usr/share/locate/en/LC_MESSAGES/unity.mo
-* editors tutorials 
+* editors 
 ** Vim
 *** key bindings 
 #+caption: key bindings 
@@ -72,7 +72,7 @@ sudo poff dsl-provider(unconnected)
 *tips*
 example:delmarks a to delete mark "a"
 
-** Emacs for space
+** Emacs 
 *** common commands 
 **** enable/disable grammar check :space+t+S
 **** save the buffer: space+f+s

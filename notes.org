@@ -92,6 +92,9 @@ https://zilongshanren.com/blog/2015-07-19-add-org-mode-support.html
    :PROPERTIES:
    :LAST_REPEAT: [2017-12-25 Mon 10:25]
    :END:
+   :LOGBOOK:
+   CLOCK: [2018-01-12 Fri 15:08]
+   :END:
   
    - State "DONE"       from "TODO"       [2017-12-25 Mon 10:25]
    - State "DONE"       from "TODO"       [2017-12-15 Fri 20:54]
