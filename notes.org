@@ -88,12 +88,13 @@ https://zilongshanren.com/blog/2015-07-19-add-org-mode-support.html
   [2017-12-02 Sat 16:36]
 
 ** TODO clean my notes weekly                                         :life:
-   SCHEDULED: <2018-01-08 Mon 19:30 .+2w>
+   SCHEDULED: <2018-01-26 Fri 19:30 .+2w>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-12-25 Mon 10:25]
+   :LAST_REPEAT: [2018-01-12 Fri 15:47]
    :END:
+   - State "DONE"       from "TODO"       [2018-01-12 Fri 15:47]
    :LOGBOOK:
-   CLOCK: [2018-01-12 Fri 15:08]
+   CLOCK: [2018-01-12 Fri 15:08]--[2018-01-12 Fri 15:47] =>  0:39
    :END:
   
    - State "DONE"       from "TODO"       [2017-12-25 Mon 10:25]
