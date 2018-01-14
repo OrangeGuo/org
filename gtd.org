@@ -151,7 +151,9 @@ CLOCK: [2017-12-15 Fri 10:44]--[2017-12-15 Fri 10:58] =>  0:14
 CLOCK: [2017-12-14 Thu 21:29]--[2017-12-14 Thu 22:10] =>  0:41
 :END:
 
-** TODO [#B] CCF CSP exam                                             :plan:
+** WAIT [#B] CCF CSP exam                                             :plan:
+- State "WAITING"    from "TODO"       [2018-01-13 Sat 19:49] \\
+  focus on review exam recently
 :LOGBOOK:
 CLOCK: [2017-12-16 Sat 19:32]--[2017-12-16 Sat 21:21] =>  1:49
 :END:
@@ -168,7 +170,8 @@ CLOCK: [2017-12-24 Sun 20:58]--[2017-12-24 Sun 21:51] =>  0:53
 ** DONE [#B] choose lesson for next ter choose lesson for next term  :study:
 CLOSED: [2017-12-20 Wed 12:46] SCHEDULED: <2017-12-20 Wed 13:00>
 
-** [#B] learn GridTree 
+** CANC [#B] learn GridTree 
+CLOSED: [2018-01-13 Sat 20:19]
 http://maxazan.github.io/jquery-treegrid/
 
 ** DONE [#B] complete module of sensitivity analysis 
@@ -191,7 +194,8 @@ CLOCK: [2017-12-20 Wed 15:52]--[2017-12-20 Wed 18:55] =>  3:03
 :END:
 [[~/org-notes/picture/project.png]]
 
-** TODO [#B] work on software test experiment document               :study:
+** DONE [#B] work on software test experiment document               :study:
+CLOSED: [2018-01-13 Sat 19:50]
 :LOGBOOK:
 CLOCK: [2018-01-06 Sat 12:47]--[2018-01-06 Sat 15:22] =>  2:35
 CLOCK: [2018-01-05 Fri 12:01]--[2018-01-05 Fri 12:58] =>  0:57
@@ -216,12 +220,14 @@ CLOCK: [2018-01-05 Fri 17:50]--[2018-01-05 Fri 18:46] =>  0:56
 CLOCK: [2018-01-05 Fri 14:54]--[2018-01-05 Fri 17:39] =>  2:45
 :END:
 
-** TODO [#B] work on lesson project document                         :study:
+** DONE [#B] work on lesson project document                         :study:
+CLOSED: [2018-01-13 Sat 19:50]
 :LOGBOOK:
 CLOCK: [2018-01-06 Sat 18:49]--[2018-01-06 Sat 23:35] =>  4:46
 :END:
 
-** TODO [#B] compilation principle lesson design                      :task:
+** DONE [#B] compilation principle lesson design                      :task:
+CLOSED: [2018-01-13 Sat 19:50]
 :LOGBOOK:
 CLOCK: [2018-01-08 Mon 16:05]--[2018-01-08 Mon 23:17] =>  7:12
 CLOCK: [2018-01-08 Mon 12:55]--[2018-01-08 Mon 13:11] =>  0:16
@@ -229,9 +235,13 @@ CLOCK: [2018-01-08 Mon 09:42]--[2018-01-08 Mon 10:28] =>  0:46
 CLOCK: [2018-01-07 Sun 19:02]--[2018-01-07 Sun 19:54] =>  0:52
 :END:
 
-** TODO [#B] review compilation principle exam                        :exam:
+** LAST [#B] review compilation principle exam                        :exam:
 DEADLINE: <2018-01-16 Tue> SCHEDULED: <2018-01-07 Sun>
+- State "LAST"       from "TODO"       [2018-01-13 Sat 20:35] \\
+  long term task
 :LOGBOOK:
+CLOCK: [2018-01-13 Sat 15:43]--[2018-01-13 Sat 16:44] =>  1:01
+CLOCK: [2018-01-13 Sat 14:12]--[2018-01-13 Sat 15:37] =>  1:25
 CLOCK: [2018-01-12 Fri 18:09]--[2018-01-12 Fri 20:25] =>  2:16
 CLOCK: [2018-01-08 Mon 14:06]--[2018-01-08 Mon 16:05] =>  1:59
 CLOCK: [2018-01-08 Mon 12:55]--[2018-01-08 Mon 12:55] =>  0:00
@@ -242,7 +252,9 @@ jLOCK: [2018-01-07 Sun 19:59]--[2018-01-07 Sun 22:32] =>  2:33
 
 * life 
 
-** TODO [#B] watch movies                                            :life:
+** OFTEN [#B] watch movies                                            :life:
+CLOSED: [2018-01-13 Sat 20:16]
+- State "OFTEN"      from "LAST"       [2018-01-13 Sat 20:39]
 - Note taken on [2017-12-15 Fri 14:09] \\
   the film i watch is <spider man: hero come back> this week.But i feel a little down.
   there are nothing new or special,the plots of the film is boring and out of date.
@@ -283,12 +295,18 @@ CLOCK: [2017-12-12 Tue 21:44]--[2017-12-12 Tue 22:22] => 0:38
   CLOCK: [2017-12-07 Thu 22:08]--[2017-12-07 Thu 22:50] =>  0:42
   :END:
 
-** TODO [#B] watch TV series                                          :life:
+** OFTEN [#B] watch TV series                                         :life:
+CLOSED: [2018-01-13 Sat 20:16]
+- State "OFTEN"      from "LAST"       [2018-01-13 Sat 20:39]
 - Note taken on [2018-01-03 Wed 13:16] \\
   15
 - Note taken on [2018-01-01 Mon 14:45] \\
   琅琊榜 风起长林 14集
 :LOGBOOK:
+CLOCK: [2018-01-14 Sun 16:53]--[2018-01-14 Sun 18:29] =>  1:36
+CLOCK: [2018-01-14 Sun 12:43]--[2018-01-14 Sun 13:56] =>  1:13
+CLOCK: [2018-01-13 Sat 17:59]--[2018-01-13 Sat 18:40] =>  0:41
+CLOCK: [2018-01-13 Sat 12:25]--[2018-01-13 Sat 13:49] =>  1:24
 CLOCK: [2018-01-12 Fri 14:40]--[2018-01-12 Fri 15:08] =>  0:28
 CLOCK: [2018-01-12 Fri 14:09]--[2018-01-12 Fri 14:33] =>  0:24
 CLOCK: [2018-01-12 Fri 10:31]--[2018-01-12 Fri 11:21] =>  0:50
@@ -301,22 +319,29 @@ CLOCK: [2017-12-24 Sun 12:22]--[2017-12-24 Sun 14:02] =>  1:40
 :END:
 joyful 
 
-** TODO [#B]master spring                                            :study:
+** CANC [#B]master spring                                            :study:
+CLOSED: [2018-01-13 Sat 20:18]
 
 ** DONE [#B] improve my config for blog  
 CLOSED: [2018-01-04 Thu 22:41] SCHEDULED: <2018-01-03 Wed>
 
 * Weekly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2018-01-11 Thu 21:44], for week 2018-W02.
-| File    | Headline                                | Time    |      |
-|---------+-----------------------------------------+---------+------|
-|         | ALL *Total time*                        | *12:21* |      |
-|---------+-----------------------------------------+---------+------|
-| gtd.org | *File time*                             | *12:21* |      |
-|         | study                                   | 12:21   |      |
-|         | \_  compilation principle lesson design |         | 8:14 |
-|         | \_  review compilation principle exam   |         | 4:07 |
+#+CAPTION: Clock summary at [2018-01-13 Sat 20:42], for week 2018-W02.
+| File      | Headline                                | Time    |      |
+|-----------+-----------------------------------------+---------+------|
+|           | ALL *Total time*                        | *21:29* |      |
+|-----------+-----------------------------------------+---------+------|
+| gtd.org   | *File time*                             | *20:50* |      |
+|           | study                                   | 17:03   |      |
+|           | \_  compilation principle lesson design |         | 8:14 |
+|           | \_  review compilation principle exam   |         | 8:49 |
+|           | life                                    | 3:47    |      |
+|           | \_  watch TV series                     |         | 3:47 |
+|-----------+-----------------------------------------+---------+------|
+| notes.org | *File time*                             | *0:39*  |      |
+|           | Quick notes                             | 0:39    |      |
+|           | \_  clean my notes weekly               |         | 0:39 |
 #+END:
 #+BEGIN_SRC emacs-lisp :results value
 (setq week-range (org-clock-special-range 'thisweek nil t))
@@ -324,26 +349,30 @@ CLOSED: [2018-01-04 Thu 22:41] SCHEDULED: <2018-01-03 Wed>
 #+END_SRC
 * Monthly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thismonth :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2018-01-11 Thu 21:44], for January 2018.
-| File       | Headline                                    | Time      |      |
-|------------+---------------------------------------------+-----------+------|
-|            | ALL *Total time*                            | *1d 9:43* |      |
-|------------+---------------------------------------------+-----------+------|
-| career.org | *File time*                                 | *0:23*    |      |
-|            | Learn Emacs                                 | 0:23      |      |
-|            | \_  learn elisp                             |           | 0:23 |
-|------------+---------------------------------------------+-----------+------|
-| gtd.org    | *File time*                                 | *1d 9:20* |      |
-|            | study                                       | 1d 7:26   |      |
-|            | \_  complete module of sensitivity analysis |           | 0:12 |
-|            | \_  work on software test experiment...     |           | 7:45 |
-|            | \_  take notes for software exam            |           | 0:39 |
-|            | \_  [#B]merge project finally               |           | 4:51 |
-|            | \_  work on lesson project document         |           | 4:46 |
-|            | \_  compilation principle lesson design     |           | 9:06 |
-|            | \_  review compilation principle exam       |           | 4:07 |
-|            | life                                        | 1:54      |      |
-|            | \_  watch TV series                         |           | 1:54 |
+#+CAPTION: Clock summary at [2018-01-13 Sat 20:42], for January 2018.
+| File       | Headline                                    | Time       |      |
+|------------+---------------------------------------------+------------+------|
+|            | ALL *Total time*                            | *1d 18:51* |      |
+|------------+---------------------------------------------+------------+------|
+| career.org | *File time*                                 | *0:23*     |      |
+|            | Learn Emacs                                 | 0:23       |      |
+|            | \_  learn elisp                             |            | 0:23 |
+|------------+---------------------------------------------+------------+------|
+| gtd.org    | *File time*                                 | *1d 17:49* |      |
+|            | study                                       | 1d 12:08   |      |
+|            | \_  complete module of sensitivity analysis |            | 0:12 |
+|            | \_  work on software test experiment...     |            | 7:45 |
+|            | \_  take notes for software exam            |            | 0:39 |
+|            | \_  [#B]merge project finally               |            | 4:51 |
+|            | \_  work on lesson project document         |            | 4:46 |
+|            | \_  compilation principle lesson design     |            | 9:06 |
+|            | \_  review compilation principle exam       |            | 8:49 |
+|            | life                                        | 5:41       |      |
+|            | \_  watch TV series                         |            | 5:41 |
+|------------+---------------------------------------------+------------+------|
+| notes.org  | *File time*                                 | *0:39*     |      |
+|            | Quick notes                                 | 0:39       |      |
+|            | \_  clean my notes weekly                   |            | 0:39 |
 #+END:
 #+BEGIN_SRC emacs-lisp :results value
 (setq week-range (org-clock-special-range 'thisweek nil t))

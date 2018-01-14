@@ -26,10 +26,12 @@ date: 2017.10 get used to editing with vim or emacs
    :Attachments: career.org
    :ID:       80e354bb-47c0-4d5a-9f63-80bf36e1bd19
    :END:
-** TODO [#B] learn elisp                                             :study:
+** OFTEN [#B] learn elisp                                            :study:
 :PROPERTIES:
 :LAST_REPEAT: [2017-12-28 Thu 21:05]
 :END:
+- State "WAITING"    from "TODO"       [2018-01-13 Sat 19:45] \\
+  focus on review exam recently
 - State "DONE"       from "TODO"       [2017-12-28 Thu 21:05]
 - State "DONE"       from "TODO"       [2017-12-26 Tue 22:17]
 - State "DONE"       from "TODO"       [2017-12-24 Sun 20:58]
