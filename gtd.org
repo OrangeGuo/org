@@ -1,5 +1,5 @@
 #+TAGS: { study(s)  work(w)  temp(t) }  life(l)  plan(p) exam(e)
-* study 
+* study                                                               :study:
 
 ** DONE [#B]kill the bug in org agenda 
    CLOSED: [2017-11-23 Thu 14:51] SCHEDULED: <2017-11-23 Thu 21:20>
@@ -237,8 +237,9 @@ CLOCK: [2018-01-08 Mon 09:42]--[2018-01-08 Mon 10:28] =>  0:46
 CLOCK: [2018-01-07 Sun 19:02]--[2018-01-07 Sun 19:54] =>  0:52
 :END:
 
-** LAST [#B] review compilation principle exam [50%]                  :exam:
-DEADLINE: <2018-01-16 Tue> SCHEDULED: <2018-01-07 Sun>
+** DONE [#A] review compilation principle exam [100%]                 :exam:
+CLOSED: [2018-01-16 Tue 22:04] DEADLINE: <2018-01-16 Tue> SCHEDULED: <2018-01-07 Sun>
+- State "DONE"       from "LAST"       [2018-01-16 Tue 22:04]
 - State "LAST"       from "TODO"       [2018-01-13 Sat 20:35] \\
   long term task
 :LOGBOOK:
@@ -253,8 +254,9 @@ jLOCK: [2018-01-07 Sun 19:59]--[2018-01-07 Sun 22:32] =>  2:33
 :END:
 *** DONE review books 
 CLOSED: [2018-01-15 Mon 10:39]
-*** TODO finish paper
-** TODO [#B] review my blogs                                        :weekly:
+*** DONE finish paper
+CLOSED: [2018-01-16 Tue 15:52]
+** TODO [#C] review my blogs                                        :weekly:
 SCHEDULED: <2018-01-21 Sun .+1w>
 :PROPERTIES:
 :LAST_REPEAT: [2018-01-14 Sun 22:52]
@@ -264,9 +266,9 @@ SCHEDULED: <2018-01-21 Sun .+1w>
 CLOCK: [2018-01-14 Sun 22:34]--[2018-01-14 Sun 22:51] =>  0:17
 :END:
 
-* life 
+* life                                                                 :life:
 
-** OFTEN [#B] watch movies                                            :life:
+** OFTEN [#C] watch movies                                            :life:
 CLOSED: [2018-01-13 Sat 20:16]
 - State "OFTEN"      from "LAST"       [2018-01-13 Sat 20:39]
 - Note taken on [2017-12-15 Fri 14:09] \\
@@ -309,7 +311,7 @@ CLOCK: [2017-12-12 Tue 21:44]--[2017-12-12 Tue 22:22] => 0:38
   CLOCK: [2017-12-07 Thu 22:08]--[2017-12-07 Thu 22:50] =>  0:42
   :END:
 
-** OFTEN [#B] watch TV series                                         :life:
+** OFTEN [#C] watch TV series                                         :life:
 CLOSED: [2018-01-13 Sat 20:16]
 - State "OFTEN"      from "LAST"       [2018-01-13 Sat 20:39]
 - Note taken on [2018-01-03 Wed 13:16] \\
@@ -317,6 +319,8 @@ CLOSED: [2018-01-13 Sat 20:16]
 - Note taken on [2018-01-01 Mon 14:45] \\
   琅琊榜 风起长林 14集
 :LOGBOOK:
+CLOCK: [2018-01-16 Tue 17:41]--[2018-01-16 Tue 18:28] =>  0:47
+CLOCK: [2018-01-16 Tue 12:38]--[2018-01-16 Tue 13:24] =>  0:46
 CLOCK: [2018-01-14 Sun 16:53]--[2018-01-14 Sun 18:29] =>  1:36
 CLOCK: [2018-01-14 Sun 12:43]--[2018-01-14 Sun 13:56] =>  1:13
 CLOCK: [2018-01-13 Sat 17:59]--[2018-01-13 Sat 18:40] =>  0:41
@@ -338,6 +342,9 @@ CLOSED: [2018-01-13 Sat 20:18]
 
 ** DONE [#B] improve my config for blog  
 CLOSED: [2018-01-04 Thu 22:41] SCHEDULED: <2018-01-03 Wed>
+
+** TODO [#C] learn org-brain                                          :life:
+SCHEDULED: <2018-01-18 Thu>
 
 * Weekly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
