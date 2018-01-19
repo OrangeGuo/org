@@ -87,21 +87,6 @@ https://zilongshanren.com/blog/2015-07-19-add-org-mode-support.html
   [[file:~/web/model.js::var%20input%20=%20document.createElement("input");]] 
   [2017-12-02 Sat 16:36]
 
-** OFTEN [#C] clean my notes weekly                         :life:regularly:
-   SCHEDULED: <2018-01-27 Sat 19:30 .+2w>
-   :PROPERTIES:
-   :LAST_REPEAT: [2018-01-13 Sat 19:45]
-   :END:
-   - State "DONE"       from "TODO"       [2018-01-12 Fri 15:47]
-   :LOGBOOK:
-   CLOCK: [2018-01-12 Fri 15:08]--[2018-01-12 Fri 15:47] =>  0:39
-   :END:
-  
-   - State "DONE"       from "TODO"       [2017-12-25 Mon 10:25]
-   - State "DONE"       from "TODO"       [2017-12-15 Fri 20:54]
-   - State "DONE"       from "TODO"       [2017-12-08 Fri 16:18]
-  [2017-12-08 Fri 16:03]
-
 * Blog Ideas
 
 ** DONE [#B] not a idea but discover 
