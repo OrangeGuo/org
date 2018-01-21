@@ -1,7 +1,7 @@
 #+TAGS: { study(s)  work(w)  temp(t) }  life(l)  plan(p) exam(e)
 * study                                                               :study:
 
-** NEXT [#B] CCF CSP exam                                             :plan:
+** TODO [#B] CCF CSP exam                                             :plan:
 - State "NEXT"       from "WAIT"       [2018-01-14 Sun 22:27]
 - State "WAITING"    from "TODO"       [2018-01-13 Sat 19:49] \\
   focus on review exam recently
@@ -19,18 +19,19 @@ SCHEDULED: <2018-01-21 Sun .+1w>
 :LOGBOOK:
 CLOCK: [2018-01-14 Sun 22:34]--[2018-01-14 Sun 22:51] =>  0:17
 :END:
-** TODO [#B] learn elisp                                               :plan:
+** TODO [#B] learn elisp                                              :plan:
 :PROPERTIES:
-:LAST_REPEAT: [2018-01-18 Thu 15:18]
+:LAST_REPEAT: [2018-01-21 Sun 14:13]
 :END:
+- State "DONE"       from "TODO"       [2018-01-21 Sun 14:13]
 - State "DONE"       from "TODO"       [2018-01-18 Thu 15:18]
 - State "WAITING"    from "TODO"       [2018-01-13 Sat 19:45] \\
   focus on review exam recently
 - State "DONE"       from "TODO"       [2017-12-28 Thu 21:05]
 - State "DONE"       from "TODO"       [2017-12-26 Tue 22:17]
 - State "DONE"       from "TODO"       [2017-12-24 Sun 20:58]
-[[info:eintr#kill-region][info:eintr#kill-region]]
-   SCHEDULED: <2018-01-20 Sat 20:45 .+2d>
+[[info:eintr#copy-region-as-kill][info:eintr#copy-region-as-kill]]
+   SCHEDULED: <2018-01-23 Tue 20:45 .+2d>
    :PROPERTIES:
    :LAST_REPEAT: [2017-12-22 Fri 14:46]
    :END:
@@ -64,6 +65,7 @@ CLOCK: [2018-01-14 Sun 22:34]--[2018-01-14 Sun 22:51] =>  0:17
    :END:
    - State "DONE"       from "TODO"       [2017-11-29 Wed 20:43]
    :LOGBOOK:
+   CLOCK: [2018-01-21 Sun 12:05]--[2018-01-21 Sun 12:23] =>  0:18
    CLOCK: [2018-01-18 Thu 14:50]--[2018-01-18 Thu 15:18] =>  0:28
    CLOCK: [2018-01-02 Tue 12:45]--[2018-01-02 Tue 13:08] =>  0:23
    CLOCK: [2017-12-30 Sat 21:21]--[2017-12-30 Sat 21:24] =>  0:03
@@ -108,14 +110,14 @@ CLOCK: [2018-01-14 Sun 22:34]--[2018-01-14 Sun 22:51] =>  0:17
 
 * Weekly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thisweek :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2018-01-19 Fri 09:37], for week 2018-W03.
-| File       | Headline         | Time   |      |
-|------------+------------------+--------+------|
-|            | ALL *Total time* | *0:28* |      |
-|------------+------------------+--------+------|
-| career.org | *File time*      | *0:28* |      |
-|            | Learn Emacs      | 0:28   |      |
-|            | \_  learn elisp  |        | 0:28 |
+#+CAPTION: Clock summary at [2018-01-21 Sun 12:27], for week 2018-W03.
+| File    | Headline         | Time   |      |
+|---------+------------------+--------+------|
+|         | ALL *Total time* | *0:46* |      |
+|---------+------------------+--------+------|
+| gtd.org | *File time*      | *0:46* |      |
+|         | study            | 0:46   |      |
+|         | \_  learn elisp  |        | 0:46 |
 #+END:
 #+BEGIN_SRC emacs-lisp :results value
 (setq week-range (org-clock-special-range 'thisweek nil t))
@@ -123,18 +125,17 @@ CLOCK: [2018-01-14 Sun 22:34]--[2018-01-14 Sun 22:51] =>  0:17
 #+END_SRC
 * Monthly Review
 #+BEGIN: clocktable :maxlevel 5 :scope agenda-with-archives :block thismonth :fileskip0 t :indent t
-#+CAPTION: Clock summary at [2018-01-19 Fri 09:37], for January 2018.
+#+CAPTION: Clock summary at [2018-01-21 Sun 12:27], for January 2018.
 | File        | Headline                                     | Time       |      |
 |-------------+----------------------------------------------+------------+------|
-|             | ALL *Total time*                             | *1d 13:55* |      |
+|             | ALL *Total time*                             | *1d 14:13* |      |
 |-------------+----------------------------------------------+------------+------|
-| career.org  | *File time*                                  | *0:51*     |      |
-|             | Learn Emacs                                  | 0:51       |      |
-|             | \_  learn elisp                              |            | 0:51 |
-|-------------+----------------------------------------------+------------+------|
-| gtd.org     | *File time*                                  | *0:17*     |      |
-|             | study                                        | 0:17       |      |
+| gtd.org     | *File time*                                  | *2:05*     |      |
+|             | study                                        | 1:26       |      |
 |             | \_  review my blogs                          |            | 0:17 |
+|             | \_  learn elisp                              |            | 1:09 |
+|             | life                                         | 0:39       |      |
+|             | \_  clean my notes weekly                    |            | 0:39 |
 |-------------+----------------------------------------------+------------+------|
 | gtd2017.org | *File time*                                  | *1d 12:08* |      |
 |             | study                                        | 1d 12:08   |      |
@@ -145,10 +146,6 @@ CLOCK: [2018-01-14 Sun 22:34]--[2018-01-14 Sun 22:51] =>  0:17
 |             | \_  work on lesson project document          |            | 4:46 |
 |             | \_  compilation principle lesson design      |            | 9:06 |
 |             | \_  review compilation principle exam [100%] |            | 8:49 |
-|-------------+----------------------------------------------+------------+------|
-| notes.org   | *File time*                                  | *0:39*     |      |
-|             | Quick notes                                  | 0:39       |      |
-|             | \_  clean my notes weekly                    |            | 0:39 |
 #+END:
 #+BEGIN_SRC emacs-lisp :results value
 (setq week-range (org-clock-special-range 'thisweek nil t))
