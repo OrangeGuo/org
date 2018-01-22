@@ -2,6 +2,11 @@
 * study                                                               :study:
 
 ** TODO [#B] CCF CSP exam                                             :plan:
+SCHEDULED: <2018-01-23 Tue ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2018-01-22 Mon 20:03]
+:END:
+- State "DONE"       from "TODO"       [2018-01-22 Mon 20:03]
 - State "NEXT"       from "WAIT"       [2018-01-14 Sun 22:27]
 - State "WAITING"    from "TODO"       [2018-01-13 Sat 19:49] \\
   focus on review exam recently
@@ -11,10 +16,11 @@ CLOCK: [2017-12-16 Sat 19:32]--[2017-12-16 Sat 21:21] =>  1:49
 prepare for exam 
 http://cspro.org/lead/leadbpm.do?__action=goto_iframe&path=CCF_KS_KSLX_LIST&djtype=TT&2
 ** TODO [#C] review my blogs                                        :weekly:
-SCHEDULED: <2018-01-21 Sun .+1w>
+SCHEDULED: <2018-01-28 Sun ++1w>
 :PROPERTIES:
-:LAST_REPEAT: [2018-01-14 Sun 22:52]
+:LAST_REPEAT: [2018-01-22 Mon 10:47]
 :END:
+- State "DONE"       from "TODO"       [2018-01-22 Mon 10:47]
 - State "DONE"       from "TODO"       [2018-01-14 Sun 22:52]
 :LOGBOOK:
 CLOCK: [2018-01-14 Sun 22:34]--[2018-01-14 Sun 22:51] =>  0:17
