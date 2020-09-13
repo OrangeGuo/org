@@ -1,0 +1,27 @@
+* java NIO
+- channel
+- buffer
+- selector
+** 和IO的区别
+| IO     | NIO              |
+|--------+------------------|
+| 面向流[fn:1] | 面向缓冲区[fn:2] |
+| 阻塞[fn:3] | 非阻塞[fn:4]      |
+
+
+** channel
+IO中stream为单向（读或写），NIO中channel为双向；
+数据从channel输出到buffer。 
+*** 应用
+| 类别   | 实现                              |
+|--------+-----------------------------------|
+| 文件IO | FileChannel                       |
+| UDP    | DatagramChannel                   |
+| TCP    | SocketChannel ServerSocketChannel |
+
+* Footnotes
+
+[fn:1] stream,字符流或字节流
+[fn:2] buffer
+[fn:3] 线程调用read或write方法时，在数据被读取或写完前一直被阻塞 
+[fn:4] 线程调用时不阻塞，可以管理多个通道（channel） 
