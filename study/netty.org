@@ -1,0 +1,23 @@
+#+title:Netty
+高性能异步驱动的[[./java_nio.org][NIO]]框架，支持多种协议，所有IO操作异步非阻塞。
+
+** 性能高
+异步非阻塞通信，NIO多路复用
+
+** 传输快
+一般情况下，数据从IO到堆内存需要经过Socket缓冲区，拷贝两次，如果数据量大会浪费资源；
+NIO中数据直接从IO读到开辟在堆内存之外的一块内存中，netty通过byteBuffer直接操作。
+
+** 封装好
+*** 对NIO中的channel做了封装
+- channel 单个连接
+- channelHandler 处理业务请求
+- channelHandlerContext 传输业务数据
+- channelPipeline 保存处理请求过程所需的前两者
+*** ByteBuf
+存储字节的容器，有自己的读索引和写索引，即可操作单个字节，也可读写整段缓存；
+有三种使用模式
+- 堆缓冲区
+- 直接（堆外）缓冲区
+- 混合缓冲区
+
