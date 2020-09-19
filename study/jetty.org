@@ -1,0 +1,10 @@
+#+title:Jetty
+开源的http服务器和servlet引擎
+
+*** 基本架构
+- server 管理handler
+- connector 接收客户端的请求，将请求分配给处理的队列
+
+*** 优点
+- 异步servlet，支持高并发
+- 默认NIO，食用大量长连接业务场景
