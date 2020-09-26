@@ -29,4 +29,32 @@ API可以返回对象而不需要公开它的类，从而隐藏实现类
 *** 避免使用Finalizer,Cleaner 机制
 *** 使用try-with-resources 代替 try-finally
 	资源必须实现 autocloseable 接口
+*** 重写equals 方法遵守通用约定 
+**** 通用约定
+- 自反性：对于非空引用，x.equals(x)为true
+- 对称性：对于非空引用，x.equals(y)为true=>y.equals(x)为true
+- 传递性
+- 一致性：不修改用于equals 比较的信息，x.equals(y)的值始终保持不变
+- 对于非空引用，x.equals(null)为false
+
+*** 重写equals 方法同时也要重写hashcode 方法
+相等的对象必须具有相同的哈稀码
+
+*** 始终重写tostring 方法 
+	
+*** 谨慎地重写clone 方法
+*** 考虑实现 comparable 接口
+*** 使类和成员的可访问性最小
+- 让每个类或成员尽可能地不被访问
+- 公共类的实例字段很少采用 public 修饰；带有公共可变字段的类通常不是线程安全的
+- 非零长度的数组总是可变的，所以类具有公共静态final 数组字段，或者返回这样一个字段的
+  访问器是错误的
+*** 在公共类中使用访问方法而不是公共属性
+*** 最小化可变性
+**** 不可变类
+实例不可修改的类：string 类,基本类型包装类，BigInteger 类和 BigDecimal 类。
+1. 不要提供修改对象状态的方法（setter）
+2. 确保这个类不能被继承，使用final 修饰
+3. 把所有字段设为private,final
+4. 确保对任何组件的互斥访问
 
