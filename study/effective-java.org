@@ -99,6 +99,8 @@ producer-extends,consumer-super(PECS),Comparable 和 Comparator 都是消费者
 
 *** 合理地结合范型和可变参数
 *** 优先考虑类型安全的异构容器
+*** 使用枚举类型代替整型常量
+**** 可以通过构造方法或抽象方法关联数据，行为和枚举实例
 
 
 
