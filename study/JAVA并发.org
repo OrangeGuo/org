@@ -1,0 +1,40 @@
+#+title:JAVA 并发
+** 目录
+*** 使用线程
+**** runnable
+**** callable 
+**** thread
+*** 线程之间协作
+- 在线程中调用另一个线程的 join() 方法，会将当前线程挂起，而不是忙等待，直到目标线程
+  结束
+- 调用 wait() 使得线程等待某个条件满足，线程在等待时会被挂起，当其他线程的运行使得这
+  个条件满足时，其它线程会调用 notify() 或者 notifyAll() 来唤醒挂起的线程。
+  它们都属于 Object 的一部分，而不属于 Thread。
+  只能用在同步方法或者同步控制块中使用，否则会在运行时抛出
+  IllegalMonitorStateException。
+  使用 wait() 挂起期间，线程会释放锁。这是因为，如果没有释放锁，那么其它线程就无法进
+  入对象的同步方法或者同步控制块中，那么就无法执行 notify() 或者 notifyAll() 来唤醒
+  挂起的线程，造成死锁。
+  **和sleep()的区别**
+  wait() 是 Object 的方法，而 sleep() 是 Thread 的静态方法；wait() 会释放锁，sleep()
+  不会。
+*** 内存模型
+**** 可见性
+	 1. volatile
+	 2. synchronized，对一个变量执行 unlock 操作之前，必须把变量值同步回主内存
+	 3. final，被 final 关键字修饰的字段在构造器中一旦初始化完成，并且没有发生 this
+        逃逸（其它线程通过 this 引用访问到初始化了一半的对象），那么其它线程就能看见
+        final 字段的值
+*** 线程安全
+**** 不可变
+	 1. final 关键字修饰的基本数据类型
+	 2. String
+	 3. 枚举类型
+	 4. Number 部分子类，如 Long 和 Double 等数值包装类型，BigInteger 和 BigDecimal
+        等大数据类型。但同为 Number 的原子类 AtomicInteger 和 AtomicLong 则是可变的
+	 5. 对于集合类型，可以使用 Collections.unmodifiableXXX() 方法来获取一个不可变的
+        集合，Collections.unmodifiableXXX() 先对原始的集合进行拷贝，需要对集合进行修
+        改的方法都直接抛出异常。
+			
+
+
