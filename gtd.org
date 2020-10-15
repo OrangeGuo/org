@@ -1,4 +1,4 @@
 * blog
-** TODO [#B] JAVA并发                                               :reading:
+** DONE [#B] JAVA并发                                               :reading:
  <2020-10-13 Tue 23:43>
 https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20%E5%B9%B6%E5%8F%91.md 
